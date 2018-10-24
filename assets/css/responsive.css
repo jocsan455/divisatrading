@@ -1,0 +1,811 @@
+/*---------------------------------------------------------------------
+    Desktops
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav .navbar-collapse.collapse.in,
+    nav.navbar.bootsnav .navbar-collapse.collapsing {
+        background-color: #1a1a1a;
+        padding: 20px
+    }
+    .preloader .spinner {
+        margin: 28% auto;
+    }
+}
+
+
+/*---------------------------------------------------------------------
+    Tablet Device
+----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    .navbar-brand img {
+        width: 100px;
+        margin: -2px 0 0
+    }
+    nav.navbar.bootsnav .navbar-collapse.collapse.in,
+    nav.navbar.bootsnav .navbar-collapse.collapsing {
+        background-color: #1a1a1a;
+        padding: 20px
+    }
+    .preloader .spinner {
+        margin: 35% auto;
+    }
+
+    .header-contact-info {
+        text-align: center;
+        margin: 0 0 16px;
+    }
+    .header-social {
+        text-align: center;
+    }
+    .caption-content h1 {
+        font-size: 46px;
+        line-height: 56px;
+    }
+    .caption-content h3 {
+        font-size: 20px;
+        line-height: 30px
+    }
+    .large-btn a {
+        padding: 10px 40px;
+    }
+    .caption-content {
+        padding: 16% 10% 0;
+    }
+    .about-img {
+        margin: 0 0 40px;
+    }
+    #about {
+        padding: 80px 0 65px;
+    }
+    .service-single {
+        margin: 0 0 30px;
+    }
+    #services {
+        padding: 60px 0 50px
+    }
+    #why-choose-us {
+        padding: 60px 0 80px;
+    }
+    .why-choose-img {
+        margin: 40px 0 0;
+    }
+    .member-social {
+        padding: 100px 20px;
+    }
+    .team-member-single {
+        margin: 0 0 30px;
+    }
+    #team {
+        padding: 60px 0 50px;
+    }
+    .contact-info-single {
+        width: 33%;
+        display: inline-block;
+    }
+    .contact-form {
+        margin: 0 0 50px;
+    }
+    .footer-links {
+        margin: 0 0 30px;
+    }
+    .footer-top {
+        padding: 50px 0 60px;
+    }
+    .recent-post-single .post-cont {
+        width: 76%;
+        padding-left: 10px;
+    }
+    .recent-post-single .post-img {
+        width: 24%;
+    }
+    .blog-wrap {
+        padding: 70px 0 60px;
+    }
+    .blog-sidebar {
+        margin: 0 0 60px;
+    }
+}
+
+
+/*---------------------------------------------------------------------
+    Large Screen Modile Device
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav .navbar-collapse.collapse.in,
+    nav.navbar.bootsnav .navbar-collapse.collapsing {
+        background-color: #1a1a1a;
+        padding: 20px
+    }
+    .navbar-brand img {
+        width: 100px;
+        margin: -2px 0 0
+    }
+    .preloader .spinner {
+        margin: 55% auto;
+    }
+
+    .header-contact-info {
+        text-align: center;
+        margin: 0 0 2px;
+    }
+    .header-contact-info ul li {
+        line-height: 24px;
+    }
+    .header-social {
+        text-align: center;
+    }
+    .caption-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .caption-content h3 {
+        font-size: 16px;
+        line-height: 26px
+    }
+    .large-btn {
+        margin: 50px 0 0;
+    }
+    .large-btn a {
+        padding: 10px 30px;
+        margin: 0 15px 0 0;
+    }
+    .caption-content {
+        padding: 28% 10% 0;
+    }
+    .slides.owl-carousel .owl-nav > div {
+        top: 62%;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .about-img {
+        margin: 0 0 30px;
+    }
+    #about {
+        padding: 60px 0 45px;
+    }
+    .heading {
+        margin: 0 0 50px;
+    }
+    .heading h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .service-single {
+        margin: 0 0 30px;
+    }
+    #services {
+        padding: 40px 0 30px
+    }
+    #portfolio {
+        padding: 40px 0 55px
+    }
+    .portfolio-menu button {
+        padding: 6px 10px;
+    }
+    .portfolio-grid {
+        padding: 0px 10px;
+    }
+    #features {
+        padding: 40px 0 30px;
+    }
+    #call-to-action {
+        padding: 35px 0 60px;
+    }
+    .call-to-action-content a {
+        padding: 10px 24px;
+    }
+    #why-choose-us {
+        padding: 40px 0 60px;
+    }
+    .why-choose-img {
+        margin: 30px 0 0;
+    }
+    .newsletter-form {
+        padding: 0 30px;
+        margin: 0 0 15px;
+    }
+    .newsletter-form input {
+        border-radius: 25px;
+    }
+    .newsletter-btn {
+        padding: 0 30px;
+    }
+    .newsletter-btn button {
+        border-radius: 25px;
+    }
+    #newsletter {
+        padding: 40px 0 60px
+    }
+    .pricing-table-single {
+        margin: 0 0 30px;
+    }
+    #pricing {
+        padding: 40px 0 30px;
+    }
+    .counter-single {
+        margin: 0 0 40px;
+    }
+    #counter {
+        padding: 60px 0 10px;
+    }
+    .counter-single i {
+        font-size: 30px;
+        height: 65px;
+        width: 65px;
+        line-height: 70px;
+    }
+    .counter-single .icofont.icofont-cop-badge,
+    .counter-single .icofont.icofont-files {
+        font-size: 25px;
+    }
+    #team {
+        padding: 40px 0 30px
+    }
+    #testimonial {
+        padding: 40px 0 60px;
+    }
+    .member-social {
+        padding: 100px 20px;
+    }
+    .team-member-single {
+        margin: 0 0 30px;
+    }
+    .latest-blog {
+        padding: 40px 0 60px
+    }
+    .post-date {
+        left: 20px;
+        top: 20px;
+    }
+    #latest-blog {
+        padding: 40px 0 60px
+    }
+    .post-details {
+        padding: 0 25px 25px
+    }
+    .contact-info {
+        margin: 0 0 15px;
+        overflow: hidden
+    }
+    .contact-form {
+        margin: 0 0 50px;
+    }
+    #map {
+        height: 300px;
+    }
+    .footer-about {
+        margin: 0 0 40px;
+    }
+    .footer-instagram {
+        margin: 30px 0 40px;
+    }
+    .footer-top {
+        padding: 30px 0 45px;
+    }
+    .blog-wrap {
+        padding: 50px 0 40px;
+    }
+    .blog-sidebar {
+        margin: 0 0 40px;
+    }
+    .page-title {
+        padding: 210px 0 18px;
+    }
+    .page-content h2 {
+        margin-bottom: 0;
+    }
+    .blog-details-wrap {
+        padding: 60px 0;
+    }
+    .comment-form #name {
+        margin: 0 0 15px
+    }
+    .notfound-content h1 {
+        font-size: 80px;
+        line-height: 90px;
+    }
+    .notfound-content h2 {
+        font-size: 36px;
+        line-height: 46px;
+        margin: 20px 0 0;
+    }
+    .notfound-content a {
+        padding: 10px 14px;
+    }
+    .notfound-content {
+        padding: 60px 0 100px;
+    }
+}
+
+
+/*----------------------------------------------------------------------
+   Medium Screen Modile Device
+------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav .navbar-collapse.collapse.in,
+    nav.navbar.bootsnav .navbar-collapse.collapsing {
+        background-color: #1a1a1a;
+        padding: 20px
+    }
+    .navbar-brand img {
+        width: 100px;
+        margin: -2px 0 0
+    }
+    .preloader .spinner {
+        margin: 65% auto;
+    }
+
+    .header-contact-info {
+        text-align: center;
+        margin: 0 0 2px;
+    }
+    .header-contact-info ul li {
+        line-height: 24px;
+    }
+    .header-social {
+        text-align: center;
+    }
+    .caption-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .caption-content h3 {
+        font-size: 16px;
+        line-height: 26px
+    }
+    .large-btn {
+        margin: 50px 0 0;
+    }
+    .large-btn a {
+        padding: 10px 30px;
+        margin: 0 10px 0 0;
+        font-size: 14px
+    }
+    .caption-content {
+        padding: 45% 10% 0;
+    }
+    .slides.owl-carousel .owl-nav > div {
+        top: 62%;
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        padding: 5px 8px;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .about-img {
+        margin: 0 0 30px;
+    }
+    #about {
+        padding: 60px 0 45px;
+    }
+    .heading {
+        margin: 0 0 50px;
+    }
+    .heading h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .service-single {
+        margin: 0 0 30px;
+    }
+    #services {
+        padding: 40px 0 30px
+    }
+    #portfolio {
+        padding: 40px 0 55px
+    }
+    .portfolio-menu button {
+        padding: 4px 5px;
+        font-size: 12px;
+    }
+    .portfolio-grid {
+        padding: 0px 10px;
+    }
+    #features {
+        padding: 40px 0 30px;
+    }
+    #call-to-action {
+        padding: 35px 0 60px;
+    }
+    .call-to-action-content a {
+        padding: 10px 24px;
+    }
+    #why-choose-us {
+        padding: 40px 0 60px;
+    }
+    .why-choose-img {
+        margin: 30px 0 0;
+    }
+    .newsletter-form {
+        padding: 0 30px;
+        margin: 0 0 15px;
+    }
+    .newsletter-form input {
+        border-radius: 25px;
+    }
+    .newsletter-btn {
+        padding: 0 30px;
+    }
+    .newsletter-btn button {
+        border-radius: 25px;
+    }
+    #newsletter {
+        padding: 40px 0 60px
+    }
+    .pricing-table-single {
+        margin: 0 0 30px;
+    }
+    #pricing {
+        padding: 40px 0 30px;
+    }
+    .counter-single {
+        margin: 0 0 40px;
+    }
+    #counter {
+        padding: 60px 0 10px;
+    }
+    .counter-single i {
+        font-size: 30px;
+        height: 65px;
+        width: 65px;
+        line-height: 70px;
+    }
+    .counter-single .icofont.icofont-cop-badge,
+    .counter-single .icofont.icofont-files {
+        font-size: 25px;
+    }
+    #team {
+        padding: 40px 0 30px
+    }
+    #testimonial {
+        padding: 40px 0 60px;
+    }
+    .member-social {
+        padding: 100px 20px;
+    }
+    .team-member-single {
+        margin: 0 0 30px;
+    }
+    .latest-blog {
+        padding: 40px 0 60px
+    }
+    .post-date {
+        left: 20px;
+        top: 20px;
+    }
+    #latest-blog {
+        padding: 40px 0 60px
+    }
+    .post-details {
+        padding: 0 25px 25px
+    }
+    .contact-info {
+        margin: 0 0 15px;
+        overflow: hidden
+    }
+    .contact-form {
+        margin: 0 0 50px;
+    }
+    #map {
+        height: 300px;
+    }
+    .footer-about {
+        margin: 0 0 40px;
+    }
+    .footer-instagram {
+        margin: 30px 0 40px;
+    }
+    .footer-top {
+        padding: 30px 0 45px;
+    }
+    .click-to-top > a {
+        font-size: 18px;
+        padding: 6px 8px;
+    }
+    .blog-wrap {
+        padding: 50px 0 40px;
+    }
+    .blog-sidebar {
+        margin: 0 0 40px;
+    }
+    .page-title {
+        padding: 250px 0 18px;
+    }
+    .page-content h2 {
+        margin: 0;
+    }
+    .comment-form #name {
+        margin: 0 0 15px
+    }
+    .blog-details-wrap {
+        padding: 60px 0;
+    }
+    .notfound-content h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .notfound-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: 20px 0 0;
+    }
+    .notfound-content a {
+        padding: 8px 10px;
+    }
+    .notfound-content {
+        padding: 50px 0 90px;
+    }
+    .notfound-content h4 {
+        font-size: 16px;
+        line-height: 26px
+    }
+}
+
+
+/*----------------------------------------------------------------------
+    Small Screen Modile Device
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav .navbar-collapse.collapse.in,
+    nav.navbar.bootsnav .navbar-collapse.collapsing {
+        background-color: #1a1a1a;
+        padding: 20px
+    }
+    .navbar-brand img {
+        width: 100px;
+        margin: -2px 0 0
+    }
+    .preloader .spinner {
+        margin: 70% auto;
+    }
+
+    .header-contact-info {
+        text-align: center;
+        margin: 0 0 2px;
+    }
+    .header-contact-info ul li {
+        line-height: 24px;
+    }
+    .header-social {
+        text-align: center;
+    }
+    .caption-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .caption-content h3 {
+        font-size: 16px;
+        line-height: 26px
+    }
+    .large-btn {
+        margin: 50px 0 0;
+    }
+    .large-btn a {
+        padding: 8px 24px;
+        margin: 0 8px 0 0;
+        font-size: 14px;
+    }
+    .caption-content {
+        padding: 65% 10% 0;
+    }
+    .slides.owl-carousel .owl-dots {
+        bottom: 30px;
+    }
+    .slides.owl-carousel .owl-nav > div {
+        top: 62%;
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        padding: 5px 8px;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .about-img {
+        margin: 0 0 30px;
+    }
+    #about {
+        padding: 60px 0 45px;
+    }
+    .heading {
+        margin: 0 0 50px;
+    }
+    .heading h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .service-single {
+        margin: 0 0 30px;
+    }
+    #services {
+        padding: 40px 0 30px
+    }
+    #portfolio {
+        padding: 40px 0 55px
+    }
+    .portfolio-menu button {
+        padding: 4px 2px;
+        font-size: 11px;
+    }
+    .portfolio-grid {
+        padding: 0px 10px;
+    }
+    #features {
+        padding: 40px 0 30px;
+    }
+    #call-to-action {
+        padding: 35px 0 60px;
+    }
+    .call-to-action-content a {
+        padding: 10px 24px;
+    }
+    #why-choose-us {
+        padding: 40px 0 60px;
+    }
+    .why-choose-img {
+        margin: 30px 0 0;
+    }
+    .newsletter-form {
+        padding: 0 30px;
+        margin: 0 0 15px;
+    }
+    .newsletter-form input {
+        border-radius: 25px;
+    }
+    .newsletter-btn {
+        padding: 0 30px;
+    }
+    .newsletter-btn button {
+        border-radius: 25px;
+    }
+    #newsletter {
+        padding: 40px 0 60px
+    }
+    .call-to-action-content h2 {
+        font-size: 26px;
+    }
+    .pricing-table-single {
+        margin: 0 0 30px;
+    }
+    #pricing {
+        padding: 40px 0 30px;
+    }
+    .counter-single {
+        margin: 0 0 40px;
+    }
+    #counter {
+        padding: 60px 0 10px;
+    }
+    .counter-single i {
+        font-size: 30px;
+        height: 65px;
+        width: 65px;
+        line-height: 70px;
+    }
+    .counter-single .icofont.icofont-cop-badge,
+    .counter-single .icofont.icofont-files {
+        font-size: 25px;
+    }
+    #team {
+        padding: 40px 0 30px
+    }
+    #testimonial {
+        padding: 40px 0 60px;
+    }
+    .member-social {
+        padding: 100px 20px;
+    }
+    .team-member-single {
+        margin: 0 0 30px;
+    }
+    .latest-blog {
+        padding: 40px 0 60px
+    }
+    .post-date {
+        left: 20px;
+        top: 20px;
+    }
+    #latest-blog {
+        padding: 40px 0 60px
+    }
+    .post-details {
+        padding: 0 15px 20px;
+    }
+    .contact-info {
+        margin: 0 0 15px;
+        overflow: hidden
+    }
+    .contact-form {
+        margin: 0 0 50px;
+    }
+    #map {
+        height: 300px;
+    }
+    .footer-about {
+        margin: 0 0 40px;
+    }
+    .footer-instagram {
+        margin: 30px 0 40px;
+    }
+    .footer-top {
+        padding: 30px 0 45px;
+    }
+    .click-to-top > a {
+        font-size: 18px;
+        padding: 6px 8px;
+    }
+    .footer-bottom p {
+        padding: 0 10px;
+    }
+    .blog-wrap {
+        padding: 50px 0 40px;
+    }
+    .blog-sidebar {
+        margin: 0 0 40px;
+    }
+    .page-title {
+        padding: 280px 0 18px;
+    }
+    .page-content h2 {
+        margin: 0;
+    }
+    .comment-form #name {
+        margin: 0 0 15px
+    }
+    .blog-post-social ul li a {
+        padding: 6px 10px;
+    }
+    .blog-details-wrap {
+        padding: 60px 0;
+    }
+    .notfound-content h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .notfound-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: 20px 0 0;
+    }
+    .notfound-content a {
+        padding: 8px 10px;
+    }
+    .notfound-content {
+        padding: 50px 0 90px;
+    }
+    .notfound-content h4 {
+        font-size: 16px;
+        line-height: 26px
+    }
+}

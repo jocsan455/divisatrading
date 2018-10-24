@@ -1,0 +1,134 @@
+
+/*=====================================================================================
+    Color Twenty Three
+=======================================================================================*/
+
+/*
+    Color
+---------------------------------------------------------------------------------------*/
+
+.color-base,
+.large-btn a.color-bg:hover,
+.header-contact-info ul li i,
+.header-social li a,
+.service-single > i,
+.feature-single i,
+.why-choose-features ul li i,
+.table-btn a,
+.pricing-table-single.popular:hover .table-btn a,
+.member-social li a:hover,
+.contact-info-single i,
+.contact-btn button,
+.footer-social ul li a,
+.widget.category ul li a:hover,
+.recent-post-single .post-cont h5 a:hover,
+.post-meta p a:hover,
+.post-title h2 a:hover,
+.footer-links li a:hover,
+.color-one .breadcrumb li a,
+.comment-single .media-body p a:hover,
+.comment-btn button,
+.blog-post-social ul li a,
+nav.navbar.bootsnav ul.nav li > a.active:hover,
+nav.navbar.bootsnav ul.nav li > a.active:focus,
+nav.navbar.bootsnav ul.nav li > a.active,
+nav.navbar.bootsnav ul.nav li > a:hover {
+    color: #F46D78
+}
+
+/*
+    Background Color
+---------------------------------------------------------------------------------------*/
+
+.preloader,
+.large-btn a.color-bg,
+.large-btn a:hover,
+.slides.owl-carousel .owl-nav > div:hover,
+.slides.owl-carousel .owl-dot.active,
+#video-background,
+.service-single:hover > i,
+.portfolio-menu button:hover,
+.portfolio-menu button:active,
+.portfolio-menu button:focus,
+.portfolio-menu button.active,
+.call-to-action-content a,
+.newsletter-btn button,
+.pricing-table-single.popular,
+.pricing-table-single:hover .table-btn a,
+.counter-single i,
+.member-details,
+.testimonial-carousel,
+.blog-btn a,
+.contact-btn button:hover,
+.footer-social ul li a:hover,
+.click-to-top,
+.click-to-top > a,
+.post-date,
+.widget.tags span a,
+.notfound-content a,
+.comment-btn button:hover,
+.blog-post-social ul li a:hover,
+.pager li a:hover{
+    background-color: #F46D78;
+}
+
+/*
+    Border Color
+---------------------------------------------------------------------------------------*/
+
+.large-btn a.color-bg,
+.large-btn a:hover,
+.portfolio-menu button:hover,
+.portfolio-menu button:active,
+.portfolio-menu button:focus,
+.portfolio-menu button.active,
+.why-choose-features ul li i,
+.table-btn a,
+.contact-info-single i,
+.contact-btn button,
+.footer-social ul li a,
+.comment-btn button:hover,
+.comment-btn button,
+.blog-post-social ul li a:hover,
+.blog-post-social ul li a,
+.pager li a:hover {
+    border-color: #F46D78;
+}
+
+/*
+    White Color
+---------------------------------------------------------------------------------------*/
+
+.footer-social ul li a:hover,
+.service-single:hover > i,
+.contact-btn button:hover,
+.blog-post-social ul li a:hover,
+.comment-btn button:hover{
+    color: #fff;
+}
+
+/*
+    White Background Color
+---------------------------------------------------------------------------------------*/
+
+.pricing-table-single.popular:hover .table-btn a,
+.large-btn a.color-bg:hover {
+    background-color: #fff;
+}
+
+/*
+    White Border Color
+---------------------------------------------------------------------------------------*/
+
+.pricing-table-single.popular:hover .table-btn a,
+.large-btn a.color-bg:hover {
+    border-color: #fff;
+}
+
+/*
+    RGB Color
+---------------------------------------------------------------------------------------*/
+
+.portfolio-single .overlay {
+    background-color: rgba(244, 109, 120, 0.8);
+}
