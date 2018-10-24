@@ -57,7 +57,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 nav.navbar.bootsnav ul.nav > li > a:hover {
-    color: #3094f1
+    color: #1f6ed4
 }
 
 nav.navbar.bootsnav ul.nav li.megamenu-fw > a:hover,
@@ -66,7 +66,7 @@ nav.navbar.bootsnav ul.nav li > a.active:hover,
 nav.navbar.bootsnav ul.nav li > a.active:focus,
 nav.navbar.bootsnav ul.nav li > a.active {
     background-color: transparent;
-    color: #3094f1
+    color: #1f6ed4
 }
 
 nav.navbar.bootsnav .navbar-toggle {
@@ -529,7 +529,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked {
         width: 160px;
         background: #fff;
         border: solid 1px #e0e0e0;
-        border-top: solid 5px #3094f1;
+        border-top: solid 5px #1f6ed4;
         left: 0
     }
 

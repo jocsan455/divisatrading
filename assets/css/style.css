@@ -175,7 +175,7 @@ blockquote {
 }
 
 .color-base {
-    color: #3094f1
+    color: #1f6ed4
 }
 
 .overlay {
@@ -259,14 +259,14 @@ blockquote {
 
 .large-btn a.color-bg,
 .large-btn a:hover{
-    border-color: #3094f1;
-    background-color: #3094f1;
+    border-color: #1f6ed4;
+    background-color: #1f6ed4;
 }
 
 .large-btn a.color-bg:hover {
     border-color: #fff;
     background-color: #fff;
-    color: #3094f1
+    color: #1f6ed4
 }
 .botona1,.botona2:hover{
     border: 2px solid #0000004a;
@@ -276,7 +276,7 @@ blockquote {
     font-weight: 600;
     font-size: 16px;
     border-radius: 25px;
-    background: #3094f1;
+    background: #1f6ed4;
 }
 .inline-block{
 display: inline-block;
@@ -285,21 +285,21 @@ vertical-align: top;
 float: none;
 }
 .botona2,.botona1:hover{
-    border: 2px solid #3094f1;
+    border: 2px solid #1f6ed4;
     background-color: transparent;
     padding: 12px 50px;
     margin: 0 10px;
     font-weight: 500;
     font-size: 16px;
     border-radius: 25px;
-    color: #3094f1;
+    color: #1f6ed4;
 }
 /*-------------------------------------------------------------------------------------
     Preloader
 ---------------------------------------------------------------------------------------*/
 
 .preloader {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     height: 100%;
     left: 0;
     position: fixed;
@@ -369,7 +369,7 @@ float: none;
 }
 
 .header-contact-info ul li i {
-    color: #3094f1;
+    color: #1f6ed4;
     margin-right: 4px;
 }
 
@@ -379,7 +379,7 @@ float: none;
 
 .header-social li a {
     display: block;
-    color: #3094f1;
+    color: #1f6ed4;
     padding: 0 4px;
 }
 
@@ -461,7 +461,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .slides.owl-carousel .owl-nav > div:hover {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
 }
 
 .slides.owl-carousel .owl-nav .owl-next {
@@ -487,7 +487,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .slides.owl-carousel .owl-dot.active {
-    background-color: #3094f1
+    background-color: #1f6ed4
 }
 
 /*-------------------------------------------------------------------------------------
@@ -549,7 +549,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 ---------------------------------------------------------------------------------------*/
 
 #video-background {
-    background-color: #3094f1
+    background-color: #1f6ed4
 }
 
 /*-------------------------------------------------------------------------------------
@@ -606,12 +606,12 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .service-single:hover > i {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff
 }
 
 .service-single > i {
-    color: #3094f1;
+    color: #1f6ed4;
     font-size: 50px;
     background-color: #f5f5f5;
     border-radius: 50%;
@@ -644,8 +644,8 @@ nav.navbar.bootsnav ul.nav > li > a {
 .portfolio-menu button:active,
 .portfolio-menu button:focus,
 .portfolio-menu button.active {
-    background-color: #3094f1;
-    border-color: #3094f1;
+    background-color: #1f6ed4;
+    border-color: #1f6ed4;
     color: #fff;
 }
 
@@ -766,7 +766,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .feature-single i {
     font-size: 60px;
-    color: #3094f1;
+    color: #1f6ed4;
     display: inline-block;
 }
 
@@ -782,7 +782,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .call-to-action-content a {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
     font-weight: 500;
     padding: 12px 30px;
@@ -814,8 +814,8 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .why-choose-features ul li i {
-    color: #3094f1;
-    border: 2px solid #3094f1;
+    color: #1f6ed4;
+    border: 2px solid #1f6ed4;
     height: 20px;
     width: 20px;
     display: inline-block;
@@ -851,7 +851,7 @@ nav.navbar.bootsnav ul.nav > li > a {
     height: 50px;
     border-radius: 0 25px 25px 0;
     border: 0;
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
     font-weight: 500;
     font-size: 16px;
@@ -897,20 +897,20 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .table-btn a {
     display: inline-block;
-    border: 2px solid #3094f1;
+    border: 2px solid #1f6ed4;
     padding: 8px 40px;
     border-radius: 25px;
-    color: #3094f1;
+    color: #1f6ed4;
     font-weight: 600;
 }
 
 .pricing-table-single:hover .table-btn a {
     color: #fff;
-    background-color: #3094f1
+    background-color: #1f6ed4
 }
 
 .pricing-table-single.popular {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
 }
 
 .pricing-table-single.popular:hover {
@@ -932,7 +932,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .pricing-table-single.popular:hover .table-btn a {
-    color: #3094f1;
+    color: #1f6ed4;
     background-color: #fff
 }
 
@@ -954,7 +954,7 @@ nav.navbar.bootsnav ul.nav > li > a {
     width: 80px;
     display: inline-block;
     line-height: 80px;
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff
 }
 
@@ -985,7 +985,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 .member-details {
     border-radius: 0 0 25px 0;
     padding: 30px 0 20px;
-    background-color: #3094f1
+    background-color: #1f6ed4
 }
 
 .member-social {
@@ -1008,7 +1008,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .member-social li a:hover {
-    color: #3094f1
+    color: #1f6ed4
 }
 
 /*-------------------------------------------------------------------------------------
@@ -1022,7 +1022,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .testimonial-carousel {
     border-radius: 25px 0;
-    background-color: #3094f1
+    background-color: #1f6ed4
 }
 
 .testimonial-single {
@@ -1101,7 +1101,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .blog-btn a {
     display: inline-block;
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
     font-weight: 500;
     padding: 12px 30px;
@@ -1114,14 +1114,14 @@ nav.navbar.bootsnav ul.nav > li > a {
 ---------------------------------------------------------------------------------------*/
 
 .contact-info-single i {
-    color: #3094f1;
+    color: #1f6ed4;
     font-size: 30px;
     width: 60px;
     height: 60px;
     display: inline-block;
     border-radius: 4px;
     line-height: 55px;
-    border: 2px solid #3094f1;
+    border: 2px solid #1f6ed4;
     margin: 0 0 15px
 }
 
@@ -1142,17 +1142,17 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .contact-btn button {
-    border: 2px solid #3094f1;
+    border: 2px solid #1f6ed4;
     background-color: transparent;
     padding: 10px 40px;
     font-weight: 500;
     font-size: 16px;
     border-radius: 25px;
-    color: #3094f1;
+    color: #1f6ed4;
 }
 
 .contact-btn button:hover {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
 }
 
@@ -1200,16 +1200,16 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .footer-social ul li a {
     display: block;
-    color: #3094f1;
+    color: #1f6ed4;
     font-size: 20px;
-    border: 2px solid #3094f1;
+    border: 2px solid #1f6ed4;
     padding: 4px 8px;
     margin: 0 4px;
     border-radius: 4px;
 }
 
 .footer-social ul li a:hover {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
 }
 
@@ -1221,7 +1221,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .footer-links li a:hover {
-    color: #3094f1;
+    color: #1f6ed4;
 }
 
 .footer-instagram ul li {
@@ -1244,7 +1244,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .click-to-top {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     position: fixed;
     bottom: 30px;
     right: 15px;
@@ -1253,7 +1253,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .click-to-top > a {
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
     display: block;
     font-size: 22px;
@@ -1287,7 +1287,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 .breadcrumb li a {
     display: block;
     font-weight: 600;
-    color: #3094f1;
+    color: #1f6ed4;
 }
 
 .blog-post-single {
@@ -1304,7 +1304,7 @@ nav.navbar.bootsnav ul.nav > li > a {
     position: absolute;
     left: 10px;
     top: 10px;
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     text-align: center;
     font-weight: 500;
     color: #fff;
@@ -1334,7 +1334,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .post-meta p a:hover,
 .post-title h2 a:hover {
-    color: #3094f1
+    color: #1f6ed4
 }
 
 
@@ -1413,13 +1413,13 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .widget.category ul li a:hover,
 .recent-post-single .post-cont h5 a:hover {
-    color: #3094f1
+    color: #1f6ed4
 }
 
 .widget.tags span a {
     display: inline-block;
     padding: 10px;
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
     font-weight: 500;
     margin: 0 4px 4px 0;
@@ -1433,8 +1433,8 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .pager li a:hover {
-    background-color: #3094f1;
-    border-color: #3094f1;
+    background-color: #1f6ed4;
+    border-color: #1f6ed4;
     color: #fff;
 }
 
@@ -1463,16 +1463,16 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .blog-post-social ul li a {
     display: block;
-    border: 2px solid #3094f1;
+    border: 2px solid #1f6ed4;
     padding: 8px 12px;
     border-radius: 50%;
     font-size: 16px;
-    color: #3094f1;
+    color: #1f6ed4;
 }
 
 .blog-post-social ul li a:hover {
-    background-color: #3094f1;
-    border-color: #3094f1;
+    background-color: #1f6ed4;
+    border-color: #1f6ed4;
     color: #fff;
 }
 
@@ -1486,7 +1486,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .comment-single .media-body p a:hover {
-    color: #3094f1;
+    color: #1f6ed4;
 }
 
 .comment-single img {
@@ -1514,17 +1514,17 @@ nav.navbar.bootsnav ul.nav > li > a {
 }
 
 .comment-btn button {
-    color: #3094f1;
+    color: #1f6ed4;
     font-weight: 600;
     padding: 10px 30px;
     border-radius: 25px;
-    border: 2px solid #3094f1;
+    border: 2px solid #1f6ed4;
     background-color: transparent;
 }
 
 .comment-btn button:hover {
-    background-color: #3094f1;
-    border-color: #3094f1;
+    background-color: #1f6ed4;
+    border-color: #1f6ed4;
     color: #fff;
 }
 
@@ -1549,7 +1549,7 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .notfound-content a {
     display: inline-block;
-    background-color: #3094f1;
+    background-color: #1f6ed4;
     color: #fff;
     font-weight: 500;
     padding: 12px 20px;
