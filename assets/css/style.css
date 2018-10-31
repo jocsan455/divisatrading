@@ -55,7 +55,12 @@ body {
     padding: 0;
 
 }
-
+.font-20{
+    font-size: 20px;
+}
+.font-30{
+    font-size: 30px;
+}
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -144,6 +149,12 @@ p {
 
 blockquote {
     color: #777
+}
+.text-underline{
+    text-decoration: underline;
+}
+.block{
+    display: block;
 }
 
 .font-700 {
@@ -258,6 +269,9 @@ blockquote {
 }
 section{
     padding: 80px 0;
+}
+.cursor{
+    cursor: pointer;
 }
 
 .large-btn a.color-bg,
