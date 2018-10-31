@@ -256,6 +256,9 @@ blockquote {
     font-size: 16px;
     border-radius: 25px;
 }
+section{
+    padding: 80px 0;
+}
 
 .large-btn a.color-bg,
 .large-btn a:hover{
