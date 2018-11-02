@@ -1027,13 +1027,20 @@ nav.navbar.bootsnav ul.nav > li > a {
 .member-social li a:hover {
     color: #1f6ed4
 }
-
+#Ventajas {
+    background-image: url(../images/contador.jpg);
+    background-attachment: fixed;
+}
+#inversores {
+    background-image: url(../images/inversores.jpg);
+    background-attachment: fixed;
+}
 /*-------------------------------------------------------------------------------------
     Testimonial
 ---------------------------------------------------------------------------------------*/
 
 #testimonial {
-    background-image: url(../images/banner-2.jpg);
+    background-image: url(../images/fondo2.jpg);
     background-attachment: fixed;
 }
 
