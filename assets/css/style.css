@@ -1118,7 +1118,10 @@ nav.navbar.bootsnav ul.nav > li > a {
     overflow: hidden;
     margin: 0 0 30px
 }
-
+.logo{
+    width: 250px;
+    margin-top: 5px;
+}
 .blog-post-single.latest .post-details {
     padding: 8px 0 0;
 }
