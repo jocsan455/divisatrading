@@ -670,18 +670,19 @@
                 <!--End Heading-->
 
                 <!--Start Newsletter Form-->
-                <form action="index.html" method="POST">
+                <form action="mailer/config2.php" method="POST" id="form-email">
                     <div class="row">
                         <div class="col-md-4 col-md-offset-3  col-sm-offset-2 p-0">
                             <div class="newsletter-form">
-                                <input type="text" class="form-control" placeholder="Ingrese su e-mail para recibir información">
+                                <input id="emailemail" name="emailemail" type="email" class="form-control" placeholder="Ingrese su e-mail para recibir información">
                             </div>
                         </div>
                         <div class="col-sm-2 p-0">
                             <div class="newsletter-btn">
                                 <button type="submit">Solicitar Información</button>
                             </div>
-                        </div>
+                        </div><br>
+                        <div class="col-md-6" id="form-alertaemail"></div>
                     </div>
                 </form><br><br>
                 <p class="text-center">Su e-mail no será almacenado ni utilizado para propósitos publicitarios. </p>
