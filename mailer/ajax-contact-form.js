@@ -26,7 +26,7 @@ $(function () {
                 $(formMessages).addClass('success');
 
                 // Set the message text.
-                $(formMessages).text(response);
+                $(formMessages).text('Muchas gracias! Su mensaje ha sido enviado exitosamente.');
 
                 // Clear the form.
                 $('#name').val('');
