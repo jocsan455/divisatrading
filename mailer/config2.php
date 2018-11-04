@@ -15,7 +15,7 @@ $mail->Password = 'emailsweb48';
 $message = "";
 $status = "false";
 
-    $email      = $_POST['email'];
+    $email      = $_POST['emailemail'];
     $subject = 'CLIENTE SOLICITANDO INFORMACION';
 
         
