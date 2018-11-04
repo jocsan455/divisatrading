@@ -41,7 +41,7 @@ $(function () {
 
                 // Set the message text.
                 if (data.responseText !== '') {
-                    $(formMessages).text(data.responseText);
+                    $(formMessages).text('Muchas gracias! Su mensaje ha sido enviado exitosamente.');
                 } else {
                     $(formMessages).text('Oops! An error occured and your message could not be sent.');
                 }
