@@ -67,7 +67,20 @@ body {
     color: #373737;
     position: relative
 }
-
+.justify{
+    text-align: justify;
+}
+.margenr{
+    margin-right: 12%;
+}
+.col-sm-6{
+    width: 50%;
+    display: inline-block;
+    margin-right: -4px;
+}
+.ktm{
+    width: auto;height: 300px;
+}
 #body-wrap {
     overflow-x: hidden;
 }

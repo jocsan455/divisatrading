@@ -17,7 +17,7 @@
             navText: ['<i class="icofont icofont-simple-left"></i>', '<i class="icofont icofont-simple-right"></i>'],
             nav: true,
             autoplay: true,
-            autoplayTimeout: 10000,
+            autoplayTimeout: 1000000,
             animateOut: 'fadeOut',
             animateIn: 'fadeIn',
             smartSpeed: 450,
