@@ -19,8 +19,7 @@ $status = "false";
     $email      = $_POST['email'];
     $telefono    = $_POST['subject'];
     $message        = $_POST['message'];
-    $subject = 'CLIENTE SOLICITANDO INFORMACIÓN';
-    $output     = "Name: ".$name."\n\n Email: ".$email."\n\n Subject: ".$subject."\n\n Message: ".$message;
+    $subject = 'CLIENTE SOLICITANDO INFORMACION';
 
         
 
@@ -42,10 +41,10 @@ $status = "false";
 
             $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>This Form was submitted from: ' . $_SERVER['HTTP_REFERER'] : '';
 
-            $body = "$name $email $subject $message $referrer";
+            $body = "$name $email $telefono $message $referrer";
 
             $mail->MsgHTML( $body );
             $sendEmail = $mail->Send();
 
-echo "Muchas gracias! Su mensaje ha sido enviado exitosamente.";
+echo "hola config";
 ?>
