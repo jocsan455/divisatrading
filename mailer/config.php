@@ -10,18 +10,19 @@ $mail->Host = 'smtp.gmail.com';
 $mail->Port = 587;  
 $mail->SMTPSecure = 'tls'; 
 $mail->SMTPAuth = true;
-$mail->Username = 'forexvortex.social@gmail.com';
-$mail->Password = 'SocialPips';  
+$mail->Username = 'divisatrading22@gmail.com';
+$mail->Password = 'emailsweb48';  
 $message = "";
 $status = "false";
 
     $name       = $_POST['name'];
     $email      = $_POST['email'];
-    $subject    = $_POST['subject'];
+    $telefono    = $_POST['subject'];
     $message        = $_POST['message'];
+    $subject = 'CLIENTE SOLICITANDO INFORMACIÓN';
     $output     = "Name: ".$name."\n\n Email: ".$email."\n\n Subject: ".$subject."\n\n Message: ".$message;
 
-        $subject = isset($subject) ? $subject : 'New Message | Request';
+        
 
 
         $toemail = 'jocsan455@gmail.com'; // Your Email Address
@@ -36,7 +37,7 @@ $status = "false";
             $name = isset($name) ? "Nombre: $name<br><br>" : '';
             $message = isset($message) ? "message: $message<br><br>" : '';
             $email = isset($email) ? "Email: $email<br><br>" : '';
-            $subject = isset($subject) ? "Asunto: $subject<br><br>" : '';
+            $telefono = isset($telefono) ? "Telefono: $telefono<br><br>" : '';
             $message = isset($message) ? "Mensaje: $message<br><br>" : '';
 
             $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>This Form was submitted from: ' . $_SERVER['HTTP_REFERER'] : '';
