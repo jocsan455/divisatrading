@@ -35,7 +35,12 @@ $status = "false";
 
             $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>This Form was submitted from: ' . $_SERVER['HTTP_REFERER'] : '';
 
-            $body = "$name $email $telefono $message $referrer";
+            $body = "
+            Estimados señores,<br><br>
+            Estoy interesad@ en recibir información acerca del PROYECTO ESPECIAL DE INVERSIÓN promocionado en su página web www.divisatrading.com
+            Agradezco por favor me contacten a través del siguiente email: $email
+            <br>Muchas gracias,
+            <br>EL CLIENTE INTERESADO";
 
             $mail->MsgHTML( $body );
             $sendEmail = $mail->Send();
