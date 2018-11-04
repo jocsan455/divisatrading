@@ -46,6 +46,5 @@ $status = "false";
             $mail->MsgHTML( $body );
             $sendEmail = $mail->Send();
 
-$status_array = array( 'message' => $message, 'status' => $status);
 echo "Muchas gracias! Su mensaje ha sido enviado exitosamente.";
 ?>
