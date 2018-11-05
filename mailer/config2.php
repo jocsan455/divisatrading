@@ -21,8 +21,8 @@ $status = "false";
         
 
 
-        $toemail = 'jocsan455@gmail.com'; // Your Email Address
-        $toname = 'forex vortex'; // Your Name
+        $toemail = 'info@divisatrading.com'; // Your Email Address
+        $toname = 'divisa trading'; // Your Name
 
 
             $mail->SetFrom( $email , $name );
