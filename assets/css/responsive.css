@@ -36,6 +36,9 @@
     text-align: center;
     margin: 20px 0px;
 }
+.m100{
+    width: 100% !important;
+}
 iframe{
     width: 100%;
 }
@@ -166,6 +169,9 @@ iframe{
     display: block;
     text-align: center;
     margin: 20px 0px;
+}
+.m100{
+    width: 100% !important;
 }
 iframe{
     width: 100%;
@@ -416,6 +422,9 @@ iframe{
     display: block;
     text-align: center;
     margin: 20px 0px;
+}
+.m100{
+    width: 100% !important;
 }
 iframe{
     width: 100%;
@@ -680,6 +689,9 @@ iframe{
     display: block;
     text-align: center;
     margin: 20px 0px;
+}
+.m100{
+    width: 100% !important;
 }
 iframe{
     width: 100%;
