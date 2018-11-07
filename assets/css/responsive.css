@@ -743,18 +743,18 @@ iframe{
         text-align: center;
     }
     .caption-content h1 {
-        font-size: 25px;
+        font-size: 20px;
         line-height: 40px;
     }
     .caption-content h3 {
-        font-size: 16px;
-        line-height: 26px
+        font-size: 9px;
+        line-height: 26px;
     }
     .large-btn {
         margin: 50px 0 0;
     }
     .large-btn a {
-        padding: 8px 24px;
+        padding: 7px 20px;
         margin: 0 8px 0 0;
         font-size: 14px;
     }
