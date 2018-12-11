@@ -829,7 +829,11 @@ nav.navbar.bootsnav ul.nav > li > a {
     margin: 20px 0 0;
     border-radius: 25px
 }
-
+.call-to-action-content a:hover {
+    border: solid 1px #1f6ed4;
+    background-color: #fff;
+    color: #1f6ed4;
+}
 /*-------------------------------------------------------------------------------------
     Why Choose Us
 ---------------------------------------------------------------------------------------*/
