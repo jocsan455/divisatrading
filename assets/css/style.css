@@ -80,7 +80,7 @@ body {
     text-align: justify;
 }
 .margenr{
-    margin-right: 12%;
+    margin-left: 12%;
 }
 .col-sm-6{
     width: 50%;
@@ -619,8 +619,11 @@ nav.navbar.bootsnav ul.nav > li > a {
 
 .about-img img {
     border-radius: 25px;
+    margin-top: 10px;
 }
-
+.about-img{
+    margin-top: 10px;
+}
 .about-content h2 {
     margin: 10px 0 15px
 }
@@ -1624,11 +1627,18 @@ nav.navbar.bootsnav ul.nav > li > a {
     color: #777777;
 }
 .about-img{
-    margin-left: -30px;
+    margin-left: 30px;
 }
 .portfolio-list{
     margin-left: -30px;
 }
 .right-2{
     margin-right: 16.66666667%;
+}
+#preguntas{
+    margin-top: -30px;
+}
+.estrella img{
+    width: 5%;
+    margin:1%;
 }
