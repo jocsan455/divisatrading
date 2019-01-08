@@ -62,8 +62,8 @@ iframe{
     text-align: center;
 }
     .navbar-brand img {
-        width: 100px;
-        margin: -2px 0 0
+        width: 300px;
+    margin: 0px 0px -60px 0;
     }
     nav.navbar.bootsnav .navbar-collapse.collapse.in,
     nav.navbar.bootsnav .navbar-collapse.collapsing {
@@ -86,8 +86,8 @@ iframe{
         line-height: 56px;
     }
     .caption-content h3 {
-        font-size: 20px;
-        line-height: 30px
+        font-size: 24px;
+        line-height: 30px;
     }
     .large-btn a {
         padding: 10px 40px;
@@ -201,8 +201,8 @@ iframe{
         padding: 20px
     }
     .navbar-brand img {
-        width: 100px;
-        margin: -2px 0 0
+        width: 300px;
+        margin: 0px 0px -60px 0;
     }
     .preloader .spinner {
         margin: 55% auto;
@@ -223,8 +223,8 @@ iframe{
         line-height: 40px;
     }
     .caption-content h3 {
-        font-size: 16px;
-        line-height: 26px
+        font-size: 24px;
+        line-height: 26px;
     }
     .large-btn {
         margin: 50px 0 0;
@@ -454,8 +454,8 @@ iframe{
         padding: 20px
     }
     .navbar-brand img {
-        width: 100px;
-        margin: -2px 0 0
+    width: 200px;
+    margin: 0px 0px -70px 0;
     }
     .preloader .spinner {
         margin: 65% auto;
@@ -476,7 +476,7 @@ iframe{
         line-height: 40px;
     }
     .caption-content h3 {
-        font-size: 10px;
+        font-size: 24px;
         line-height: 26px;
     }
     .large-btn {
@@ -725,8 +725,8 @@ iframe{
         padding: 20px
     }
     .navbar-brand img {
-        width: 100px;
-        margin: -2px 0 0
+    width: 200px;
+    margin: 0px 0px -60px 0;
     }
     .preloader .spinner {
         margin: 70% auto;
@@ -747,7 +747,7 @@ iframe{
         line-height: 40px;
     }
     .caption-content h3 {
-        font-size: 9px;
+        font-size: 20px;
         line-height: 26px;
     }
     .large-btn {
