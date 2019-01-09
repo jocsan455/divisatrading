@@ -1642,3 +1642,49 @@ nav.navbar.bootsnav ul.nav > li > a {
     width: 5%;
     margin:1%;
 }
+.estrellac{
+    width: 50px;
+    margin-top:-20px;
+}
+.estrellac1{
+    width: 35px;
+}
+.agregar{
+        float: right;
+    background: #ffcc00;
+    color: #3e3c35;
+    padding: 15px 20px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -15px;
+    border: none;
+    border-radius: 5px;}
+
+.botonc1{
+    padding: 5px 50px;
+    background: #1f6ed4;
+    color: white;
+    border: solid #1f6ed4 1px;
+    font-weight: bolder;
+    border-radius: 10px 10px 0px 0px;
+}
+.botonc2{
+    background: gray;
+}
+.borderbajo{
+    border-bottom: solid #1f6ed4 1px;
+}
+.fotoperfil{
+    border: solid 1px #1f6ed4;
+    border-radius: 20px;
+    height: 200px;
+    background-size: 100%;
+    background-position: center;
+}
+.testimonio{
+    border: solid 1px #1f6ed4;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: -10px;
+    padding-top: 20px;
+}

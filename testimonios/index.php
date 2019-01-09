@@ -1,3 +1,6 @@
+<?php 
+    include "Config.php";
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -14,53 +17,53 @@
     <meta name="description" content="Invertimos en forex generando alto rendimiento de manera consistente y manteniendo los riesgos bajo control. Operamos en un entorno tecnológico profesional y con brókeres regulados que garantizan máxima satisfacción y seguridad a los inversores. Nuestras estrategias han demostrar ser eficaces y rentables.">
     <title>Divisa Trading Group | Manejo de Inversiones Forex</title>
     <!--Favicon-->
-    <link rel="shortcut icon" type="image/png" href="../assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="http://127.0.0.1/divisatrading/assets/images/favicon.png">
     <!--Bootstrap CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/bootstrap.css">
     <!--Owl Carousel CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/owl.carousel.min.css">
     <!--Magnific PopUp CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/magnific-popup.css">
     <!--Animate Headline CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/animated-headline.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/animated-headline.css">
     <!--Mailer CSS-->
-    <link rel="stylesheet" type="text/css" href="mailer/mailer-style.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/mailer/mailer-style.css">
     <!--Icofont CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/icofont.min.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/icofont.min.css">
     <!--Animate CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/animate.css">
     <!--Bootsnav CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/bootsnav.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/bootsnav.css">
     <!--Main CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/style.css">
     <!--Responsive CSS-->
-    <link rel="stylesheet" type="text/css" href="../assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/responsive.css">
     <!--Custom Colors-->
     <!--
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-one.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-two.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-three.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-four.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-five.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-six.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-seven.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-eight.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-nine.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-ten.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-eleven.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-twelve.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-thirteen.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-fourteen.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-fifteen.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-sixteen.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-seventeen.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-eighteen.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-nineteen.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/custom-colors/color-twenty.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-one.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-two.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-three.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-four.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-five.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-six.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-seven.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-eight.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-nine.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-ten.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-eleven.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-twelve.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-thirteen.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-fourteen.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-fifteen.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-sixteen.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-seventeen.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-eighteen.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-nineteen.css">
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-twenty.css">
     -->
 
     <!--Modanizr JS-->
-    <script src="../assets/js/modernizr.custom.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/modernizr.custom.js"></script>
     <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -119,22 +122,21 @@
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="icofont icofont-navigation-menu"></i>
                         </button>
-                            <a class="navbar-brand" href="../"><img src="../assets/images/logo.png" class="logo" alt=""><br>
-                                <span>Alto rendimiento & Consistencia</span></a>
+                            <a class="navbar-brand" href="../"><img src="http://127.0.0.1/divisatrading/assets/images/logo.svg" class="logo" alt=""><br>
                         </div>
                         <!-- End Header Navigation -->
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="navbar-menu">
                             <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">
-                                <li><a class="active" href="#Inicio">Inicio</a></li>
-                                <li><a href="#Invertir">Invertir</a></li>
-                                <li><a href="#Nosotros">¿Por qué nosotros?</a></li>
-                                <li><a href="#Resultados">Resultados</a></li>
-                                <li><a href="#Ventajas1">Ventajas</a></li>
-                                <li><a href="#Broker">Bróker</a></li>
+                                <li><a class="active" href="http://127.0.0.1/divisatrading/#Inicio">Inicio</a></li>
+                                <li><a href="http://127.0.0.1/divisatrading/#Invertir">Invertir</a></li>
+                                <li><a href="http://127.0.0.1/divisatrading/#Nosotros">¿Por qué nosotros?</a></li>
+                                <li><a href="http://127.0.0.1/divisatrading/#Resultados">Resultados</a></li>
+                                <li><a href="http://127.0.0.1/divisatrading/#Ventajas1">Ventajas</a></li>
+                                <li><a href="http://127.0.0.1/divisatrading/#Broker">Bróker</a></li>
                                 <li><a class="cursor" data-toggle="modal" data-target=".modal4">Preguntas</a></li>
-                                <li><a href="#Contacto">Contacto</a></li>
+                                <li><a href="http://127.0.0.1/divisatrading/#Contacto">Contacto</a></li>
                             </ul>
                         </div>
                         <!-- /.navbar-collapse -->
@@ -146,16 +148,15 @@
         </header>
         <!--End Header-->
  <!--Start Slider Section-->
-        <!--Start Services Section-->
-        <section id="Nosotros" class="bg-gray default-padding">
+        <section id="Nosotros" class="default-padding" style="margin-top: 70px;">
             <!--Start Container-->
             <div class="container">
                 <!--Start Heading-->
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+                    <div class="col-md-12 col-sm-12">
                         <div class="heading text-center">
-                            <h2 class="font-700">¿POR QUÉ <span class="color-base">NOSOTROS?</span></h2>
-                            <p>Mantenemos nuestra competitividad mediante un proceso de mejora continua <br>que nos permite situarnos entre las mejores inversiones alternativas de Hispanoamérica.</p>
+                            <h2 class="font-700">TESTIMONIOS DE <span class="color-base">INVERSIONISTAS</span></h2>
+                            <p>Agradecemos sinceramente a nuestros inversionistas por sus manifestaciones de gratitud y <br>reconocimiento hacia nuestros servicios de administración de inversiones en el mercado forex.</p>
                         </div>
                     </div>
                 </div>
@@ -163,46 +164,79 @@
 
                 <!--Start Services Row-->
                 <div class="row">
-                    <!--Start Service Single-->
-                    <div class="col-md-3">
-                        <div class="service-single text-center">
-                            <i class="icofont icofont-chart-histogram-alt"></i>
-                            <h4 class="font-600">Alta Rentabilidad</h4>
-                            <p>Nos apasiona generar alto rendimiento para nuestros inversores y por eso, estamos enfocamos en lograr el más <br> alto desempeño posible.</p>
-                        </div>
-                    </div>
-                    <!--End Service Single-->
 
-                    <!--Start Service Single-->
-                    <div class="col-md-3">
-                        <div class="service-single text-center">
-                            <i class="icofont icofont-shield-alt"></i>
-                            <h4 class="font-600">Máxima Seguridad</h4>
-                            <p>Bróker regulado en Nueva Zelanda. Los fondos de los clientes permanecen en cuenta segregada y solo ellos pueden realizar retiros.</p>
-                        </div>
+                    <strong>Calificacion Promedio: 
+                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
+                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
+                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
+                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
+                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
+                    </strong>
+                    <button class="agregar">Agregar Testimonio</button>
+                    <div class="borderbajo">
+                        <br><br><br>
+                        <button class="botonc1">PAMM 30%</button>
+                        <button class="botonc1 botonc2">PAMM 0.0%</button>
                     </div>
-                    <!--End Service Single-->
-
-                    <!--Start Service Single-->
-                    <div class="col-md-3">
-                        <div class="service-single text-center">
-                            <i class="icofont icofont-money-bag"></i>
-                            <h4 class="font-600">Mínimo Depósito</h4>
-                            <p>Los inversores pueden invertir a partir de $500 e incrementar o reducir su capital en cualquier momento y sin necesidad de autorización.</p>
-                        </div>
+                    <div class="heading text-center">
+                        <br><br><br>
+                        <p>Los testimonios que leerá a continuación, fueron realizados de manera libre y voluntaria por inversionistas que <br>forman o formaron parte de nuestro pool de inversionistas. A todos ellos, ¡muchas gracias!</p>
                     </div>
-                    <!--End Service Single-->
-
                     <!--Start Service Single-->
-                    <div class="col-md-3">
-                        <div class="service-single text-center">
-                            <i class="icofont icofont-expand"></i>
-                            <h4 class="font-600">Flexibilidad</h4>
-                            <p>Nuestra tecnología PAMM, permite a los inversores fijar su propio nivel de riesgo, limitar sus pérdidas y controlar su inversión en todo momento.</p>
-                        </div>
-                    </div>
+                    
                     <!--End Service Single-->
                 </div>
+                <?php 
+                        //Recientes en el banner de la portada
+                        $testimonio=mysql_query("SELECT * FROM testimonios WHERE Estatus='1' ORDER BY Fecha DESC");
+                            while($fila=mysql_fetch_assoc($testimonio)){
+                                @$ID=$fila["ID"];
+                                @$Calificacion=$fila["Calificacion"];
+                                @$CuentaPamm=$fila["CuentaPamm"];
+                                @$Nombres=$fila["Nombres"];
+                                @$Email=$fila["Email"];
+                                @$Email=$fila["Email"];
+                                @$Pais=$fila["Pais"];
+                                @$Programa=$fila["Programa"];
+                                @$Titulo=$fila["Titulo"];
+                                @$Testimonio=$fila["Testimonio"];
+                                @$Estatus=$fila["Estatus"];
+                                @$Foto=$fila["Foto"];
+                                @$Fecha=$fila["Fecha"];
+                                $number=1;
+                                echo "
+                                <div class='row'>
+
+                               
+                    <div class='col-md-3 fotoperfil' style='background-image:url($Foto);'>
+                    </div>
+                    <div class='col-md-9 testimonio'>
+                        <strong>";
+                            while ($Calificacion >= $number) {
+                                    echo "<img class='estrellac1' src='http://127.0.0.1/divisatrading/assets/images/estrella.png'>";
+                                    $number++;
+                                }
+                                echo"
+                        Excelente atención al cliente y buen manejo de cuenta</strong>
+                        <br><br><br>
+                        <p>I have been trading with this broker for 6 months now. I have requested 4 withdrawals and I received the bank wire transfer within 1 day. I am very happy about the no restriction on leverage and now I am going to start my own PAMM. Highly recommended for great customer service.</p>
+                        <br>
+                        
+                    </div>
+                    <div class='col-md-12'>
+                        <strong>$Nombres</strong><br>
+                        <strong>$Pais</strong><br>
+                        <strong>$Fecha</strong><br><br>
+                    </div>
+                    <!--Start Service Single-->
+                    
+                    <!--End Service Single-->
+                </div>
+                                ";
+
+                            }
+                    
+                        ?>
                 <!--End Services Row-->
                 <p class="text-center" style="margin: 30px 0px -60px 0px;">Nuestra estrategia de trading ha demostrado ser consistente, eficaz, rentable y segura.</p>
             </div>
@@ -211,593 +245,7 @@
         </section>
         <!--End Services Section-->
 
-        <!--Start Portfolio Section-->
-        <div class="hiddenmovil col-md-2 inline-block text-right col-md-offset-1">
-            <br><br><br><br><br><br><br><br><br>
-            <a href='https://keytomarkets.com/en/live-account/?lid=19&pid=5911' target='_blank'><img src='assets/images/banner.png'></a></div>
-        <section id="Resultados" class="inline-block col-md-6 default-padding">
-            <!--Start Container-->
-            <div class="">
-                <!--Start Heading-->
-                <div class="row">
-                    <div class="col-md-12 col-sm-12">
-                        <div class="heading text-center">
-                            <h2 class="font-700">RESULTADOS<span class="color-base"> ESTADÍSTICOS</span></h2>
-                            <p>El trading de forex es una actividad compleja que requiere un alto nivel de conocimientos <br> y habilidades del trader. Abajo presentamos una gran prueba de nuestra experticia.</p>
-                        </div>
-                    </div>
-                </div>
-                <!--End Heading-->
-
-                <!--Start Portfolio Menu-->
-                <div class="portfolio-menu row">
-                    <div class="col-md-12">
-                        <div class="button-group filter-button-group text-center">
-                            <button onclick="boton1()" id="boton1" class="active boton1">Pips</button>
-                            <button onclick="boton2()" id="boton2">Balance</button>
-                            <button onclick="boton3()" id="boton3">Retorno mensual</button>
-                            <button onclick="boton4()" id="boton4">Efectividad</button>
-                            <button onclick="boton5()" id="boton5">Operaciones</button>
-                            <button onclick="boton6()" id="boton6">Activos</button>
-                            <button onclick="boton7()" id="boton7">Drawdown </button>
-                        </div>
-                    </div>
-                </div>
-                <!--End Portfolio Menu-->
-
-                <!--Start Portfolio List-->
-                <div class="portfolio-list row">
-                    <!--Start Portfolio Single-->
-                    <div class="portfolio-grid" id="cat1">
-                        <div class="portfolio-single fix position-relative col-md-12">
-                            <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_cumulativepips&id=javierurbina" frameborder="0" width="100%" height="450"><a  target="_blank" href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>
-                        </div>
-                    </div>
-                    <!--End Portfolio Single-->
-
-                    <!--Start Portfolio Single-->
-                    <div class="portfolio-grid" id="cat2" style="display:none;">
-                        <div class="portfolio-single fix position-relative col-md-12">
-                            <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_balance&id=javierurbina" frameborder="0" width="400" height="200"><a target="_blank" href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>
-                        </div>
-                    </div>
-                    <!--End Portfolio Single-->
-
-                    <!--Start Portfolio Single-->
-                    <div class="portfolio-grid" id="cat3" style="display:none;">
-                        <div class="portfolio-single fix position-relative col-md-12">
-                            <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_monthlyreturn&id=javierurbina" frameborder="0" width="400" height="200"><a target="_blank" href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>
-                        </div>
-                    </div>
-                    <!--End Portfolio Single-->
-
-                    <!--Start Portfolio Single-->
-                    <div class="portfolio-grid" id="cat4" style="display:none;">
-                        <div class="portfolio-single fix position-relative col-md-12">
-                            <a target="_blank" href="//www.fxblue.com/users/javierurbina/stats"><img src="//www.fxblue.com/charts/ResultChart.aspx?id=javierurbina&type=monthwinnersandlosers&w=1024&h=400"/></a>
-                        </div>
-                    </div>
-                    <!--End Portfolio Single-->
-
-                    <!--Start Portfolio Single-->
-                    <div class="portfolio-grid" id="cat5" style="display:none;">
-                        <div class="portfolio-single fix position-relative col-md-12">
-                            <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_directiontrades&id=javierurbina" frameborder="0" width="400" height="200"><a target="_blank" href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>
-                        </div>
-                    </div>
-                    <!--End Portfolio Single-->
-
-                    <!--Start Portfolio Single-->
-                    <div class="portfolio-grid" id="cat6" style="display:none;">
-                        <div class="portfolio-single fix position-relative col-md-12">
-                            <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_symboltrades&id=javierurbina" frameborder="0" width="400" height="200"><a target="_blank" href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>
-                        </div>
-                    </div>
-                    <!--End Portfolio Single-->
-
-                    <!--Start Portfolio Single-->
-                    <div class="portfolio-grid" id="cat7" style="display:none;">
-                        <div class="portfolio-single fix position-relative col-md-12">
-                            <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_balancedrawdown&id=javierurbina" frameborder="0" width="400" height="200"><a target="_blank" href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>
-
-                        </div>
-                    </div>
-                    <!--End Portfolio Single-->
-                </div>
-                <!--End Portfolio List-->
-            </div>
-            <!--End Container--><br>
-            <p class="text-center">Nuestros resultados son auditados en tiempo real por <a class="color-base" target="_blank" href="https://www.fxblue.com/users/javierurbina">FX Blue </a> y <a  class="cursor color-base" data-toggle="modal" data-target=".modal7">MyFxBook.</a></p>
-        </section>
-        <div class="col-md-2 inline-block text-left hiddenmovil">
-            <br><br><br><br><br><br><br><br><br>
-        <a href='https://keytomarkets.com/en/live-account/?lid=19&pid=5911' target='_blank'><img src='assets/images/banner.png'></a></div>
-        <!--End Portfolio Section-->
-        <!--Start Counter Section-->
-        <section id="Ventajas" class="bg-cover position-relative">
-            <div class="overlay"  style="background-color: rgba(0, 0, 0, 0.8);"></div>
-            <!--Start Container-->
-            <div class="container">
-                <!--Start Counter Row-->
-                <div class="row">
-                    <!--Start Counter Single-->
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="counter-single text-center">
-                            <i class="icofont icofont-award"></i>
-                            <h2 class="font-700 color-white">24</h2>
-                            <h6 class="font-500 color-white">Meses Ganadores</h6>
-                        </div>
-                    </div>
-                    <!--End Counter Single-->
-
-                    <!--Start Counter Single-->
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="counter-single text-center">
-                            <i class="icofont icofont-search-stock"></i>
-                            <h2 class="font-700 color-white">3</h2>
-                            <h6 class="font-500 color-white">Meses Perdedores</h6>
-                        </div>
-                    </div>
-                    <!--End Counter Single-->
-
-                    <!--Start Counter Single-->
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="counter-single text-center">
-                            <i class="icofont icofont-badge"></i>
-                            <h2 class="font-700 color-white">693</h2>
-                            <h6 class="font-500 color-white">Trades Ganadores</h6>
-                        </div>
-                    </div>
-                    <!--End Counter Single-->
-
-                    <!--Start Counter Single-->
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="counter-single text-center">
-                            <i class="icofont icofont-pie-alt"></i>
-                            <h2 class="font-700 color-white">352</h2>
-                            <h6 class="font-500 color-white">Trades Perdedores</h6>
-                        </div>
-                    </div>
-                    <!--End Counter Single-->
-                </div>
-                <!--End Counter Row-->
-            </div>
-            <!--End Container-->
-        </section>
-        <!--End Counter Section-->
-        <!--Start Features Section-->
-        <section id="Ventajas1" class="bg-gray">
-            <!--Start Container-->
-            <div class="container">
-                <!--Start Heading-->
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 ">
-                        <div class="heading text-center">
-                            <h2 class="font-700"> <span class="color-base">VENTAJAS </span>DEL FOREX</h2>
-                            <p>Estas son algunas de las ventajas por las cuales el Mercado de Divisas se ha convertido <br> en el destino de inversión preferido por inversionistas de todo el mundo.</p>
-                        </div>
-                    </div>
-                </div>
-                <!--End Heading-->
-
-                <!--Start Features Row-->
-                <div class="row">
-                    <!--Start Feature Single-->
-                    <div class="col-md-4">
-                        <div class="feature-single text-center">
-                            <i class="icofont icofont-simple-smile"></i>
-                            <h4 class="font-600">No Necesita Experiencia</h4>
-                            <p>Usted no necesita años de preparación para invertir. Al unirse a nuestra plataforma PAMM, las inversiones serán realizadas por un experimentado Asset Manager.</p>
-                        </div>
-                    </div>
-                    <!--End Feature Single-->
-
-                    <!--Start Feature Single-->
-                    <div class="col-md-4">
-                        <div class="feature-single text-center">
-                            <i class="icofont icofont-gears"></i>
-                            <h4 class="font-600">Apalancamiento 1:500</h4>
-                            <p>Key To Markets otorga un apalancamiento de 1 a 500. Esto significa que si usted invierte $1000, su poder de inversión <br> en divisas será de $500,000.</p>
-                        </div>
-                    </div>
-                    <!--End Feature Single-->
-
-                    <!--Start Feature Single-->
-                    <div class="col-md-4">
-                        <div class="feature-single text-center">
-                            <i style="transform: rotate(180deg);" class="icofont icofont-chart-flow-1"></i>
-                            <h4 class="font-600">Máxima Liquidez</h4>
-                            <p>Forex es el mercado financiero más grande del mundo, con un volumen de 5.1T USD. Esto garantiza que siempre podamos entrar y salir del mercado.</p>
-                        </div>
-                    </div>
-                    <!--End Feature Single-->
-
-                    <!--Start Feature Single-->
-                    <div class="col-md-4">
-                        <div class="feature-single text-center">
-                            <i class="icofont icofont-bank"></i>
-                            <h4 class="font-600">Depósitos Instantáneos</h4>
-                            <p>Usted obtendrá un significativo ahorro en comisiones realizando sus depósitos y retiros, a través de Skrill, Neteller o sus tarjetas de crédito Visa / Master.</p>
-                        </div>
-                    </div>
-                    <!--End Feature Single-->
-
-                    <!--Start Feature Single-->
-                    <div class="col-md-4">
-                        <div class="feature-single text-center">
-                            <i class="icofont icofont-chart-line-alt"></i>
-                            <h4 class="font-600">Oportunidades 24 Hrs al Día</h4>
-                            <p>Forex es un mercado mundial que funciona 24/6, que al estar influenciado por las principales economías, genera oportunidades de inversión a diario.</p>
-                        </div>
-                    </div>
-                    <!--End Feature Single-->
-
-                    <!--Start Feature Single-->
-                    <div class="col-md-4">
-                        <div class="feature-single text-center">
-                            <i class="icofont icofont-umbrella"></i>
-                            <h4 class="font-600">No Hay Riesgo Sistémico</h4>
-                            <p>Las bolsas de valores caen, pero forex no. Tenemos la habilidad de invertir al alza y a la baja, pudiendo así aprovechar cualquier circunstancia del mercado.</p>
-                        </div>
-                    </div>
-                    <!--End Feature Single-->
-                </div>
-                <!--End Features Row-->
-            </div>
-            <!--End Container-->
-        </section>
-        <!--End Features Section-->
-
-        <!--Start Call To Action-->
-        <section id="inversores" class="bg-cover position-relative">
-            <div class="overlay" style="background-color: rgba(0, 0, 0, 0.8);"></div>
-            <!--Start Container-->
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <div class="call-to-action-content text-center">
-                            <div class="text-center estrella">
-                                <img src="../assets/images/estrella.png">
-                                <img src="../assets/images/estrella.png">
-                                <img src="../assets/images/estrella.png">
-                                <img src="../assets/images/estrella.png">
-                                <img src="../assets/images/estrella.png">
-                            </div>
-                            <h2 class="font-700 color-white">Descubra Por Qué Cientos de Inversores <br>No Pueden Estar Equivocados</h2>
-                            <a target="_blank" href="https://testimonios.divisatrading.com">Testimonios</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Container-->
-        </section>
-        <!--End Call To Action-->
-
-        <!--Start Why Choose Us-->
-        <section id="Broker" class="bg-gray">
-            <!--Start Container-->
-            <div class="container">
-                <!--Start Row-->
-                <div class="row">
-                    <!--Start Why Choose Content-->
-                    <div class="col-md-6">
-                        <div class="why-choose-content">
-                            <a target="_blank" href="https://www.forexpeacearmy.com/forex-reviews/10203/www.keytomarkets.com">
-                            <h4 class="font-500 color-gray">Un Bróker de Primera</h4></a>
-                            <h2 class="font-700">Utilizamos los Mejores Recursos de la <span class="color-base">Industria Forex</span></h2>
-                            <p>Elegimos a Key To Markets por ser un bróker regulado, con excelente reputación en <a href="https://www.forexpeacearmy.com/forex-reviews/10203/www.keytomarkets.com" target="_blank">FPA</a>, solidez financiera, tecnología de punta y un eficiente servicio de atención al cliente en español. Usted disfrutará todas sus ventajas y un trato preferencial.</p>
-                            <div class="why-choose-features row">
-                                <div class="col-sm-6">
-                                    <ul>
-                                        <li><i class="icofont icofont-check"></i> 100% ECN Technology.</li>
-                                        <li><i class="icofont icofont-check"></i> Acceso directo al mercado.</li>
-                                        <li><i class="icofont icofont-check"></i>Servidores en Equinix NY4.</li>
-                                        <li><i class="icofont icofont-check"></i> Liquidez profunda de mercado.</li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-6">
-                                    <ul>
-                                        <li><i class="icofont icofont-check"></i> Ejecución transparente (en 2ms).</li>
-                                        <li><i class="icofont icofont-check"></i> Sin conflicto de intereses.</li>
-                                        <li><i class="icofont icofont-check"></i> Depósitos y retiros instantáneos.</li>
-                                        <li><i class="icofont icofont-check"></i> Innovador sistema PAMM.</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Why Choose Content-->
-
-                    <!--Start Why Choose Image-->
-                    <div class="col-md-6"><br><br><br>
-                        <div><a target="_blank" href="https://keytomarkets.com/en/live-account/?lid=19&pid=5911">
-                            <img src="../assets/images/ktm.png" class="img-responsive col-md-offset-1 ktm" alt="Image"></a>
-                        </div>
-                    </div>
-                    <!--End Why Choose Image-->
-                </div>
-                <!--End Row-->
-            </div>
-            <!--End Container-->
-        </section>
-        <!--End Why Choose Us-->
-
-        <!--Start Newsletter Section-->
-        <section id="Preguntas" class="default-padding">
-            <!--Start Container-->
-            <div class="container">
-                <!--Start Heading-->
-                <div class="row">
-                    <div class="col-md-offset-2 col-md-8 ">
-                        <div class="text-center">
-                            <h4 class="font-500 color-gray">Obtenga el 100% de las Ganancias </h4>
-                            <h2 class="font-700">Programa Especial de  <span class="color-base">Inversión</span></h2>
-                            <p>Este innovador programa de inversión le permite unirse a nuestra plataforma PAMM,<br>
-                            sin pagar honorarios de gestión y disfrutando de ventajas exclusivas.</p>
-                        </div>
-                        <br><br>
-                    </div>
-                </div>
-                <!--End Heading-->
-
-                <!--Start Newsletter Form-->
-                <div class="why-choose-features row col-md-12" style="margin-bottom: 50px;">
-                                <div class="col-md-offset-1 col-md-5">
-                                    <ul><li><strong>VENTAJAS:</strong></li>
-                                        <li><i class="icofont icofont-check"></i>Depósito inicial mínimo 1,000 USD.</li>
-                                        <li><i class="icofont icofont-check"></i>Usted recibe el 100% de las ganancias netas.</li>
-                                        <li><i class="icofont icofont-check"></i>Sin honorarios de gestión ni cargos mensuales.</li>
-                                        <li><i class="icofont icofont-check"></i>Sin comisiones de Entrada ni Salida.</li>
-                                        <li><i class="icofont icofont-check"></i>Sin plazos fijos para mantener su inversión.</li>
-                                        <li><i class="icofont icofont-check"></i>Sin restricciones para retirar sus fondos</li>
-                                        <li><i class="icofont icofont-check"></i>Monitoreo en vivo de la PAMM vía <a href="https://www.fxblue.com/users/javierurbina" class="color-base" target="_blank">FX Blue.</a></li>
-
-                                    </ul><br><br>
-                                     <div class="animated fadeInUp text-left">
-                                <a class="botona1" target="_blank" href="https://keytomarkets.com/en/live-account/?lid=19&pid=5911">Abrir cuenta</a><a class="botona2" href="#Contacto">Contacto</a>
-                            </div>
-                                </div>
-                                <div class="col-md-6" style="margin-top: 5px;">
-                                    <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_cumulativereturn&id=javierurbina" frameborder="0" width="520" height="340"><a href="//www.fxblue.com" target="_blank">FX Blue - free tools and services for FX and CFD traders</a></iframe>
-                                </div>
-                            </div><br><br><br><br>
-                            
-                            <p class="text-center cursor" data-toggle="modal" data-target=".modal7" style="margin-bottom: -30px;">Haga click aqui para ver nuestros resultados en <span class="color-base">MyFxBook.</span></p>
-                            
-                <!--End Newsletter Form-->
-            </div>
-            <!--End Container-->
-        </section>
-        <!--End Newsletter Section-->
-        <!--Start Testimonial Section-->
-        <section id="testimonial" class="bg-cover default-padding position-relative">
-            <div class="overlay" ></div>
-            <!--Start Container-->
-            <div class="container">
-                <!--Start Heading-->
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-                        <div class="heading text-center">
-                            <h4 class="font-500 color-white">Su Satisfacción es Prioridad</h4>
-                            <h2 class="font-700 color-white">¿Qué dicen nuestros  <span class="color-base">Inversores?</span></h2>
-                            <p class="color-white">Agradecemos sinceramente a nuestros inversionistas por sus manifestaciones de  gratitud y <br>reconocimiento hacia nuestros servicios de administración de inversiones en forex.</p>
-                        </div>
-                    </div>
-                </div>
-                <!--End Heading-->
-
-                <!--Start Testimonial Row-->
-                <div class="row">
-                    <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
-                        <!--Start Testimonial Carousel-->
-                        <div class="testimonial-carousel owl-carousel">
-                            <!--Start Testimonial Single-->
-                            <div class="testimonial-single fix">
-                                <div class="client-comment">
-                                    <p class="font-500 color-white">Es la mejor inversión vía PAMM que haya realizado en mis 3 años de experiencia en forex. La combinación del bróker y la estrategia funciona impecablemente bien. Me alegra mucho haber llegado a ustedes. Gracias.</p>
-                                    <p class="text-center"><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i></p>
-                                </div>
-                                <div class="row">
-                                    <div class="client-details col-sm-6 col-xs-6">
-                                        <div class="client-img float-left">
-                                            <img src="../assets/images/cliente1.png" class="img-responsive" alt="Image">
-                                        </div>
-                                        <div class="client-info">
-                                            <h5 class="font-700 color-white">Cristian Ávila</h5>
-                                            <p class="color-white">Santiago de Chile - Chile</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-xs-6">
-                                        <div class="testi-quote color-white">
-                                            <i class="icofont icofont-quote-right"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Testimonial Single-->
-
-                            <!--Start Testimonial Single-->
-                            <div class="testimonial-single fix">
-                                <div class="client-comment">
-                                    <p class="font-500 color-white">Muy contento con mi participación en su plataforma PAMM. La eficiente gestión monetaria, atención al cliente de primera y los beneficios que obtengo están siendo a mi completa satisfacción.</p>
-                                    <p class="text-center"><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i></p>
-                                </div>
-                                <div class="row">
-                                    <div class="client-details col-sm-6 col-xs-6">
-                                        <div class="client-img float-left">
-                                            <img src="../assets/images/cliente2.jpg" class="img-responsive" alt="Image">
-                                        </div>
-                                        <div class="client-info">
-                                            <h5 class="font-700 color-white">Carlos Hernández</h5>
-                                            <p class="color-white">Medellín - Colombia</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-xs-6">
-                                        <div class="testi-quote color-white">
-                                            <i class="icofont icofont-quote-right"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Testimonial Single-->
-
-                            <!--Start Testimonial Single-->
-                            <div class="testimonial-single fix">
-                                <div class="client-comment">
-                                    <p class="font-500 color-white">Luego de haber invertido en plataformas PAMM de diferentes brókeres, finalmente estoy en una PAMM que cumple mis expectativas de rentabilidad y servicio. El bróker que utilizan es lo máximo y los retiros súper rápidos.</p>
-                                    <p class="text-center"><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i></p>
-                                </div>
-                                <div class="row">
-                                    <div class="client-details col-sm-6 col-xs-6">
-                                        <div class="client-img float-left">
-                                            <img src="../assets/images/cliente3.jpg" class="img-responsive" alt="Image">
-                                        </div>
-                                        <div class="client-info">
-                                            <h5 class="font-700 color-white">Luis Zambrano</h5>
-                                            <p class="color-white">Manta - Ecuador</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-xs-6">
-                                        <div class="testi-quote color-white">
-                                            <i class="icofont icofont-quote-right"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Testimonial Single-->
-                            <!--Start Testimonial Single-->
-                            <div class="testimonial-single fix">
-                                <div class="client-comment">
-                                    <p class="font-500 color-white">Estoy gratamente sorprendido por el profesionalismo de esta empresa y más que satisfecho con las ganancias que estoy recibiendo. El bróker me ha pagado mis profits de inmediato, a través de Skrill. Recomendados.</p>
-                                    <p class="text-center"><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i><i class="icofont icofont-star"></i></p>
-                                </div>
-                                <div class="row">
-                                    <div class="client-details col-sm-6 col-xs-6">
-                                        <div class="client-img float-left">
-                                            <img src="../assets/images/cliente4.jpg" class="img-responsive" alt="Image">
-                                        </div>
-                                        <div class="client-info">
-                                            <h5 class="font-700 color-white">Carlos Hernández</h5>
-                                            <p class="color-white">Mérida - México</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6 col-xs-6">
-                                        <div class="testi-quote color-white">
-                                            <i class="icofont icofont-quote-right"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Testimonial Single-->
-                        </div>
-                        <!--End Testimonial Carousel-->
-                    </div>
-
-                </div>
-                <!--End Testimonial Row-->
-            </div>
-            <!--End Container-->
-            <<div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-                        <div class="text-center"><br><br>
-                            <p class="color-white" style="margin-bottom: -20px;">Haga clic aquí para leer los <a href="https//testimonios.divisatrading.com" target="_blank" class="color-base">Testimonios</a> de nuestros Inversionistas.</p>
-                        </div>
-                    </div>
-                </div>
-        </section>
-        <!--End Testimonial Section-->
-        <!--Start Contact Section-->
-        <section id="Contacto" class="default-padding">
-            <!--Start Container-->
-            <div class="container">
-                <!--Start Heading-->
-                <div class="row">
-                    <div class="col-md-12 col-sm-12">
-                        <div class="heading text-center">
-                            <h4 class="font-500 color-gray">¿Necesita asistencia?</h4>
-                            <h2 class="font-700">Atención al <span class="color-base">Cliente</span></h2>
-                            <p>Nuestros ejecutivos de ventas estarán complacidos en responder a sus consultas y <br>asistirle en la apertura de su nueva cuenta de inversión e ingreso a la plataforma PAMM.</p>
-                        </div>
-                    </div>
-                </div>
-                <!--End Heading-->
-
-                <!--Start Contact Row-->
-                <div class="row">
-                    <!--Start Contact Info-->
-                    <div class="col-md-3">
-                        <div class="contact-info">
-                            <!--Start Contact Info Single-->
-                            <div class="contact-info-single text-center">
-                                <i class="icofont icofont-google-map"></i>
-                                <p class="font-500">Matias Romero 1658. Col Narvarte. Benito Juárez. CP 03600. CDMX, México</p>
-                            </div>
-                            <!--End Contact Info Single-->
-
-                            <!--Start Contact Info Single-->
-                            <div class="contact-info-single text-center">
-                                <i class="icofont icofont-email"></i>
-                                <p class="font-500">info@divisatrading.com
-                                <br> soporte@divisatrading.com</p>
-                            </div>
-                            <!--End Contact Info Single-->
-
-                            <!--Start Contact Info Single-->
-                            <div class="contact-info-single text-center">
-                                <i class="icofont icofont-phone"></i>
-                                <p class="font-500">+52 5 55 4407 280 <br>+52 1 55 1688 4771</p>
-                            </div>
-                            <!--End Contact Info Single-->
-                        </div>
-                    </div>
-                    <!--End Contact Info-->
-
-                    <!--Start Contact Form-->
-                    <div class="col-md-6">
-                        <div class="contact-form">
-                            <form action="mailer/config.php" method="post" id="ajax-contact">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Nombre y Apellido  *" id="name" name="name" required>
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" class="form-control" placeholder="Email *" id="email" name="email" required>
-                                </div>
-                                <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Teléfonos" id="subject" name="subject">
-                                </div>
-                                <div class="form-group">
-                                    <textarea class="form-control" rows="10" placeholder="Escriba su mensaje " id="message" name="message" required></textarea>
-                                </div>
-                                <div class="contact-btn text-center">
-                                    <button type="submit">Enviar</button>
-                                </div>
-                            </form>
-                            <div id="form-messages"></div>
-                        </div>
-                    </div>
-                    <!--End Contact Form-->
-                    <div class="col-md-3">
-                        <img class="hiddenmovil col-md-12" src="../assets/images/contacto.png" style="margin-bottom: 30px;">
-                        <p class="text-center font-700 cursor"><a data-toggle="modal" data-target=".modal4" class="hiddenmovil color-base"><br><br><br>Preguntas Frecuentes</a></p>
-                    </div>
-                </div>
-                <!--End Contact Row-->
-            </div>
-            <!--End Container-->
-        </section>
-        <!--End Contact Section-->
-
-        <!--Start Partner Section-->
-        <section style="padding: 0 !important;" class=" bg-gray">
-            <!--Start Container-->
-            <div class="container">
-                <!--Start Partner Carousel-->
-                <h2  style="font-size: 18px;" class="font-500 text-center color-gray">Síganos en Twitter para recibir nuestros resultados: <a class="color-base" style="font-size: 20px;" target="_blank" href="http://twitter.com/DivisaTrading"> @DivisaTrading</a></h2>
-                <!--End Partner Carousel-->
-            </div>
-            <!--End Container-->
-        </section>
-        <!--End Partner Section-->
+        
 
         <!--Start Footer-->
         <footer id="footer">
@@ -811,7 +259,7 @@
                         <div class="col-md-3 footerr">
                             <div class="footer-about">
                                 <h3 class="font-600 color-white">Somos</h3>
-                                <img src="../assets/images/logo.png" class="img-responsive" alt="Image" style="width: 200px;    margin-top: -20px;margin-left: -5px;"><br>
+                                <img src="http://127.0.0.1/divisatrading/assets/images/logo.svg" class="img-responsive" alt="Image" style="width: 200px;    margin-top: -20px;margin-left: -5px;"><br>
                                 <p>Una gestora de fondos conformada<br>
 por profesionales apasionados por<br>
 el trading de divisas y dedicados al<br>
@@ -842,7 +290,7 @@ sus asociados e inversionistas.</p>
                                 <li><a href="#Broker"><i class="icofont icofont-rounded-double-right"></i>Bróker</a></li>
                                 <li><a class="cursor" data-toggle="modal" data-target=".modal4"><i class="icofont icofont-rounded-double-right"></i>Preguntas</a></li>
                                 <li><a href="#Contacto"><i class="icofont icofont-rounded-double-right"></i>Contacto</a></li>
-                                 <li><a target="_blank" href="https://testimonios.divisaTrading.com" class="cursor"><i class="icofont icofont-rounded-double-right"></i>Testimonios</a></li>
+                                 <li><a target="_blank" href="http://testimonios.divisaTrading.com" class="cursor"><i class="icofont icofont-rounded-double-right"></i>Testimonios</a></li>
                                
                                 </ul>
                             </div>
@@ -886,7 +334,7 @@ sus asociados e inversionistas.</p>
                     <a class="cursor color-white" data-toggle="modal" data-target=".modal1" style="font-size:12px; margin-left: 23px;"> Términos y condiciones </a>
                     <a class="cursor color-white" data-toggle="modal" data-target=".modal2" style="font-size:12px; margin-left: 23px;"> Advertencia de Riesgos </a>
                     <a class="cursor color-white" data-toggle="modal" data-target=".modal3" style="font-size:12px; margin-left: 23px;" > Política de Privacidad </a>
-                    <a class="cursor color-white" target="_blank" href="https://testimonios.divisaTrading.com" style="font-size:12px; margin-left: 23px;" > Testimonios</a>
+                    <a class="cursor color-white" target="_blank" href="http://testimonios.divisaTrading.com" style="font-size:12px; margin-left: 23px;" > Testimonios</a>
                     <a class="cursor color-white" data-toggle="modal" data-target=".modal4" style="font-size:12px; margin-left: 23px;"> Preguntas </a>
                     
                 </div><br><br>
@@ -913,7 +361,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="../assets/images/logo2.png" class="logo" alt=""><br><br>
+        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">TÉRMINOS Y CONDICIONES</h1>
       <p class="text-justify">ESTOS TÉRMINOS Y CONDICIONES RIGEN LA RELACIÓN COMERCIAL ENTRE “EL PAMM MANAGER” GROUP, EN ADELANTE DENOMINADO COMO “EL PAMM MANAGER”, Y EL USUARIO DE ESTA PÁGINA WEB, EN ADELANTE LLAMADO “EL CLIENTE”, RESPECTO AL SERVICIO DE MANEJO DE INVERSIONES EN EL MERCADO DE DIVISAS OFRECIDO POR “EL PAMM MANAGER”. CUANDO “EL CLIENTE” COMPLETA EL FORMULARIO EN LÍNEA PROVISTO POR EL BRÓKER “KEY TO MARKETS”, AUTORIZANDO A “EL PAMM MANAGER” EL MANEJO DE SUS FONDOS EN EL MERCADO DE DIVISAS, QUEDA ENTENDIDO QUE “EL CLIENTE” HA LEÍDO, COMPRENDIDO Y ACEPTADO ÍNTEGRAMENTE ESTOS TÉRMINOS Y CONDICIONES.</p>
       <p class="text-justify">“EL CLIENTE” declara tener 18 años de edad o más, que actúa en su propio nombre y derechos, que es capaz de suscribir un contrato legalmente vinculante y que se compromete a asumir total responsabilidad por las ganancias o pérdidas que realice en su cuenta de inversión PAMM Investor, como resultado de autorizar a “EL PAMM MANAGER” a realizar en su nombre y representación, las inversiones que considere pertinentes en el mercado de divisas.</p>
@@ -950,7 +398,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="../assets/images/logo2.png" class="logo" alt=""><br><br>
+        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">ADVERTENCIA DE RIESGOS</h1>
       <p>POR FAVOR, LEA CON ATENCIÓN LA PRESENTE ADVERTENCIA DE RIESGOS, YA QUE ES NECESARIO QUE USTED COMPRENDA LOS RIESGOS POTENCIALES QUE EXISTEN EN EL MERCADO DE DIVISAS. EL DOCUMENTO LEERÁ A CONTINUACIÓN HA SIDO REDACTADO SOBRE UNA BASE JUSTA Y NO ENGAÑOSA.</p>
       <p class="text-justify">La negociación en el mercado de divisas es una actividad especulativa que utiliza un apalancamiento que conlleva un alto nivel de riesgo y puede no ser adecuada para todos los inversionistas. El uso de apalancamiento puede trabajar a su favor o en contra, brindándole la oportunidad de obtener grandes beneficios o pérdidas. Por lo tanto, existe la posibilidad de que usted pueda realizar la pérdida parcial o total de su inversión. Antes de decidir participar en el mercado de divisas, usted debería considerar cuidadosamente sus objetivos de inversión, nivel de experiencia y su tolerancia al riesgo. Las operaciones en el mercado de divisas deberían realizarse solo con capitales de riesgo, es decir, con fondos que no estén destinados a cubrir sus necesidades prioritarias, tales como: pago de alquiler de vivienda, hipotecas, medicinas, alimentación, educación o cualquier otro gasto básico recurrente. Al aceptar realizar inversiones en el mercado de divisas, usted está reconociendo que opera con su capital de riesgo disponible y que cualquier pérdida que sufra no perjudicará su estilo de vida. Además, usted está consciente de los riesgos asociados con las operaciones en el mercado de divisas. Usted es responsable de las pérdidas o daños que pueda experimentar al invertir en el mercado de divisas, inclusive, en caso de eventos de fuerza mayor o hecho fortuito. El éxito de este tipo de inversiones depende de la habilidad del trader para identificar oportunidades de inversión rentables y gestionar apropiadamente el riesgo. Identificar oportunidades de inversión rentables implica un alto nivel de conocimientos y habilidades del trader. Sus inversiones en el mercado de divisas deberían complacerle y ser adecuadas para sus circunstancias personales y posición financiera. Si no comprende los riesgos de invertir en el mercado de divisas, le sugerimos consultar a un asesor financiero independiente especializado en divisas y debidamente regulado, a fin de aclarar sus dudas. En caso de que usted continúe sin comprender los riesgos tras consultar a un asesor financiero, le sugerimos abstenerse de realizar cualquier tipo de operación en el mercado de divisas.</p>
@@ -963,7 +411,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="../assets/images/logo2.png" class="logo" alt=""><br><br>
+        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">POLÍTICA DE PRIVACIDAD</h1>
       <p>LA PRIVACIDAD Y SEGURIDAD DE NUESTROS CLIENTES (ACTIVOS O NO) ES MUY IMPORTANTE PARA NOSOTROS. <br> POR ESO, A CONTINUACIÓN LE EXPLICAMOS EL TRATAMIENTO QUE DAMOS A SUS DATOS PERSONALES <br>E INFORMACIONES FINANCIERAS.</p>
       <p class="text-justify">En Divisa Trading estamos comprometidos a proteger de manera eficaz la información personal y financiera de nuestros Clientes, y a revisar continuamente nuestra Política de Privacidad, a fin de garantizar el cumplimiento de los más altos estándares de seguridad de datos. Al hacer uso de nuestro sitio web, usted nos otorga su consentimiento para la recolección, mantenimiento y uso de sus datos personales e informaciones financieras, de acuerdo a nuestra Política de Privacidad. Divisa Trading no vende, arrienda ni comparte en modo alguno los datos personales o informaciones financieras de sus clientes, usuarios o entidades asociadas, a menos que haya sido expresamente requerido por una autoridad administrativa, financiera o judicial que cumpla con las leyes y regulaciones a las cuales Divisa Trading está sujeta. Divisa Trading recolectará sus datos personales e informaciones financieras solo cuando usted las proporcione al momento de completar el formulario de contacto, nos otorgue un poder especial limitado para autorizarnos al manejo de sus inversiones en el mercado de divisas, se registre en nuestra página web para ofrecer sus comentarios o cuando se comunique con nosotros por vía e-mail. Los datos personales e informaciones financieras aportadas por el cliente al bróker al momento de abrir una cuenta de inversión, serán protegidos por las políticas de privacidad que a tal efecto tenga previsto el bróker. Divisa Trading no es responsable por las políticas de privacidad de los sitios web de los brókeres, ni tiene el control sobre el uso o seguridad de la información suministrada por los clientes a tales sitios webs. Los datos personales e informaciones financieras que nos comprometemos a mantener bajo estricta confidencialidad incluyen, pero no se limitan a los siguientes: Nombres y apellidos, correos electrónicos, teléfonos, brókeres, balance en cuentas de inversión, ganancias o pérdidas realizadas, etc. Usted tiene derecho a modificar sus datos personales cuando lo desee mediante el envío de una notificación vía e-mail a Divisa Trading, e inclusive puede solicitar su exclusión anticipada de nuestra base de datos, prevenir su procesamiento o rechazar la recepción de nuestras eventuales ofertas o promociones. Nuestra política de privacidad es aplicada para el manejo de datos de clientes activos y no activos. Divisa Trading solo permite el acceso “limitado” a los datos de nuestros Clientes, a empleados que en virtud de sus atribuciones requieran dichas Informaciones para prestar el debido servicio. Para la protección de los referidos datos e informaciones, Divisa Trading utiliza mecanismos de seguridad físicos y electrónicos, además de procedimientos administrativos, a fin de evitar su extravío, robo, hurto, copia, difusión, uso o modificación desautorizada. Usted será responsable por la protección de sus números de cuentas de inversión, credenciales de acceso a su Back Office y cualquier otra información sensible sobre sus finanzas o inversiones. Eventualmente, utilizaremos su información de contacto para informarle sobre nuevos productos o servicios, promociones y descuentos. También, utilizaremos su información de contacto para cumplir nuestras obligaciones en virtud de acuerdos o contratos existentes entre usted y nosotros, como por ejemplo: notificarle Inicio eventuales cambios en nuestras políticas o servicios, modificación de precios, comisiones u honorarios, y cualquier otro tema que consideremos de interés para usted. Así mismo, sus datos podrán ser utilizados en caso de ser necesaria la salvaguarda de nuestros intereses, derechos o propiedad. Al término de 3 años, sin que usted mantenga una relación comercial activa con Divisa Trading o sus empresas filiales, sus datos personales e informaciones financieras serán destruidos y/o borrados de nuestras bases de datos, para prevenir cualquier uso no autorizado. Nuestros productos y servicios están dirigidos a personas mayores de 18 años, residentes fuera de los Estados Unidos de América.</p>
@@ -976,7 +424,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal4" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="../assets/images/logo2.png" class="logo" alt=""><br><br>
+        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">PREGUNTAS FRECUENTES</h1>
       <p>SI USTED NO ENCUENTRA LA RESPUESTA A SU PREGUNTA ESPECÍFICA, POR FAVOR,<br> COMUNÍQUESE CON NOSOTROS A TRAVÉS DEL EMAIL: 
         <a href="mailto:INFO@DIVISATRADING.COM" class="color-base">INFO@DIVISATRADING.COM</a>.</p>
@@ -1125,7 +573,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal5" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="../assets/images/logo2.png" class="logo" alt=""><br><br>
+        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
         <h1 class="font-30">PROGRAMA DE ASOCIADOS</h1>
       <p>SOMOS LA PRIMERA FRANQUICIA DE GESTIÓN DE FONDOS DE LA INDUSTRIA FOREX.<br>
 NUESTROS ASOCIADOS OBTIENEN ATRACTIVAS COMISIONES MENSUALES CON <br>
@@ -1199,9 +647,9 @@ El Programa Especial de Inversión, contribuye a un mejor balance del flujo de g
 <div class="modal fade modal6" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="../assets/images/logo2.png" class="logo" alt=""><br><br>
+        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">A NUESTROS INVERSIONISTAS</h1>
-      <p style="margin-top: -30px;">“UN GRAMO DE PRUEBA PESA MAS QUE UN KILO DE TEORÍA”</p><br><br>
+      <p>“UN GRAMO DE PRUEBA PESA MAS QUE UN KILO DE TEORÍA”</p><br><br>
       <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_cumulativereturn&id=javierurbina" frameborder="0" width="520" height="340"><a href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>  
        <br><br><br>
        <p class="text-justify">Estimados inversionistas,<br>A medida que nos dirigimos hacia el año 2020 y más allá, formando parte de uno de los
@@ -1234,10 +682,12 @@ garantizar la continuidad y éxito de este programa de inversión.</p>
 <div class="col-md-6 text-center">
     <strong>JORGE L. PONCE</strong>
     <p>Presidente Ejecutivo</p>
+    <p>Cofundador</p>
 </div>
 <div class="col-md-6 text-center">
     <strong>JAVIER A. URBINA</strong>
     <p>Asset Manager</p>
+    <p>Cofundador</p>
 </div><br><br><br><br>
         <strong class="text-center">DIVISA TRADING GROUP</strong>
         <p class="text-center">Ciudad de México - México</p><br><br>
@@ -1248,14 +698,14 @@ garantizar la continuidad y éxito de este programa de inversión.</p>
 <div class="modal fade modal7" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="../assets/images/logo2.png" class="logo" alt=""><br><br>
+        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">RESULTADOS AUDITADOS POR MYFXBOOK</h1>
-      <p style="margin-top: -30px;">OFRECEMOS MÁXIMA TRANSPARENCIA A NUESTROS INVERSIONISTAS</p><br><br>
+      <p>OFRECEMOS MÁXIMA TRANSPARENCIA A NUESTROS INVERSIONISTAS</p><br><br>
       <div class="col-md-6 text-center">
-          <img src="../assets/images/2.png" style="width: 45%;margin-left: 12%;">
+          <img src="http://127.0.0.1/divisatrading/assets/images/2.png" style="width: 45%;margin-left: 12%;">
       </div>
       <div class="col-md-5 text-center">
-          <img src="../assets/images/1.png" style="width: 50%;">
+          <img src="http://127.0.0.1/divisatrading/assets/images/1.png" style="width: 50%;">
       </div>
       <br><br><br><br>
       <a target="_blank" href="https://www.myfxbook.com/members/urbinatrader/2100210272/2745263"><img style="width: 60%;height: 270px;"  border="0" src="https://widgets.myfxbook.com/widgets/2745263/large.jpg"/></a>  
@@ -1265,33 +715,33 @@ garantizar la continuidad y éxito de este programa de inversión.</p>
     </div>
   </div>
 </div>   
-    <script src="../assets/js/jquery.min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/jquery.min.js"></script>
     <!--Google Map API Key-->
     <!--Counter JS-->
-    <script src="../assets/js/waypoints.js"></script>
-    <script src="../assets/js/counterup.min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/waypoints.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/counterup.min.js"></script>
     <!--Bootstrap JS-->
-    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/bootstrap.min.js"></script>
     <!--Magnic PopUp JS-->
-    <script src="../assets/js/magnific-popup.min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/magnific-popup.min.js"></script>
     <!--Isotope JS-->
-    <script src="../assets/js/isotope.min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/isotope.min.js"></script>
     <!--Image Loded JS-->
-    <script src="../assets/js/images-loded.min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/images-loded.min.js"></script>
     <!--Animate Headline JS-->
-    <script src="../assets/js/animated-headline.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/animated-headline.js"></script>
     <!--Owl Carousel JS-->
-    <script src="../assets/js/owl.carousel.min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/owl.carousel.min.js"></script>
     <!--Bootsnav JS-->
-    <script src="../assets/js/bootsnav.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/bootsnav.js"></script>
     <!--Ripple JS-->
-    <script src="../assets/js/ripples-min.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/ripples-min.js"></script>
     <!--Scrolly JS-->
-    <script src="../assets/js/scrolly.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/scrolly.js"></script>
     <!--Ajax Contact JS-->
-    <script src="mailer/ajax-contact-form.js"></script>
+    <script src="http://127.0.0.1/divisatrading/mailer/ajax-contact-form.js"></script>
     <!--Main JS-->
-    <script src="../assets/js/custom.js"></script>
+    <script src="http://127.0.0.1/divisatrading/assets/js/custom.js"></script>
     <script type="text/javascript">
         function boton1() {
         document.getElementById("cat1").style.display = "inherit";
