@@ -17,53 +17,53 @@
     <meta name="description" content="Invertimos en forex generando alto rendimiento de manera consistente y manteniendo los riesgos bajo control. Operamos en un entorno tecnológico profesional y con brókeres regulados que garantizan máxima satisfacción y seguridad a los inversores. Nuestras estrategias han demostrar ser eficaces y rentables.">
     <title>Divisa Trading Group | Manejo de Inversiones Forex</title>
     <!--Favicon-->
-    <link rel="shortcut icon" type="image/png" href="http://127.0.0.1/divisatrading/assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="http://divisatrading.com/assets/images/favicon.png">
     <!--Bootstrap CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/bootstrap.css">
     <!--Owl Carousel CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/owl.carousel.min.css">
     <!--Magnific PopUp CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/magnific-popup.css">
     <!--Animate Headline CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/animated-headline.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/animated-headline.css">
     <!--Mailer CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/mailer/mailer-style.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/mailer/mailer-style.css">
     <!--Icofont CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/icofont.min.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/icofont.min.css">
     <!--Animate CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/animate.css">
     <!--Bootsnav CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/bootsnav.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/bootsnav.css">
     <!--Main CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/style.css">
     <!--Responsive CSS-->
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/responsive.css">
     <!--Custom Colors-->
     <!--
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-one.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-two.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-three.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-four.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-five.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-six.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-seven.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-eight.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-nine.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-ten.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-eleven.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-twelve.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-thirteen.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-fourteen.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-fifteen.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-sixteen.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-seventeen.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-eighteen.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-nineteen.css">
-    <link rel="stylesheet" type="text/css" href="http://127.0.0.1/divisatrading/assets/css/custom-colors/color-twenty.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-one.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-two.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-three.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-four.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-five.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-six.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-seven.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-eight.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-nine.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-ten.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-eleven.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-twelve.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-thirteen.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-fourteen.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-fifteen.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-sixteen.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-seventeen.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-eighteen.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-nineteen.css">
+    <link rel="stylesheet" type="text/css" href="http://divisatrading.com/assets/css/custom-colors/color-twenty.css">
     -->
 
     <!--Modanizr JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/modernizr.custom.js"></script>
+    <script src="http://divisatrading.com/assets/js/modernizr.custom.js"></script>
     <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -122,21 +122,21 @@
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="icofont icofont-navigation-menu"></i>
                         </button>
-                            <a class="navbar-brand" href="../"><img src="http://127.0.0.1/divisatrading/assets/images/logo.svg" class="logo" alt=""><br>
+                            <a class="navbar-brand" href="../"><img src="http://divisatrading.com/assets/images/logo.svg" class="logo" alt=""><br>
                         </div>
                         <!-- End Header Navigation -->
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="navbar-menu">
                             <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">
-                                <li><a class="active" href="http://127.0.0.1/divisatrading/#Inicio">Inicio</a></li>
-                                <li><a href="http://127.0.0.1/divisatrading/#Invertir">Invertir</a></li>
-                                <li><a href="http://127.0.0.1/divisatrading/#Nosotros">¿Por qué nosotros?</a></li>
-                                <li><a href="http://127.0.0.1/divisatrading/#Resultados">Resultados</a></li>
-                                <li><a href="http://127.0.0.1/divisatrading/#Ventajas1">Ventajas</a></li>
-                                <li><a href="http://127.0.0.1/divisatrading/#Broker">Bróker</a></li>
+                                <li><a class="active" href="http://divisatrading.com/#Inicio">Inicio</a></li>
+                                <li><a href="http://divisatrading.com/#Invertir">Invertir</a></li>
+                                <li><a href="http://divisatrading.com/#Nosotros">¿Por qué nosotros?</a></li>
+                                <li><a href="http://divisatrading.com/#Resultados">Resultados</a></li>
+                                <li><a href="http://divisatrading.com/#Ventajas1">Ventajas</a></li>
+                                <li><a href="http://divisatrading.com/#Broker">Bróker</a></li>
                                 <li><a class="cursor" data-toggle="modal" data-target=".modal4">Preguntas</a></li>
-                                <li><a href="http://127.0.0.1/divisatrading/#Contacto">Contacto</a></li>
+                                <li><a href="http://divisatrading.com/#Contacto">Contacto</a></li>
                             </ul>
                         </div>
                         <!-- /.navbar-collapse -->
@@ -166,11 +166,11 @@
                 <div class="row">
 
                     <strong>Calificacion Promedio: 
-                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
-                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
-                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
-                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
-                        <img class="estrellac" src="http://127.0.0.1/divisatrading/assets/images/estrella.png">
+                        <img class="estrellac" src="http://divisatrading.com/assets/images/estrella.png">
+                        <img class="estrellac" src="http://divisatrading.com/assets/images/estrella.png">
+                        <img class="estrellac" src="http://divisatrading.com/assets/images/estrella.png">
+                        <img class="estrellac" src="http://divisatrading.com/assets/images/estrella.png">
+                        <img class="estrellac" src="http://divisatrading.com/assets/images/estrella.png">
                     </strong>
                     <button class="agregar">Agregar Testimonio</button>
                     <div class="borderbajo">
@@ -213,7 +213,7 @@
                     <div class='col-md-9 testimonio'>
                         <strong>";
                             while ($Calificacion >= $number) {
-                                    echo "<img class='estrellac1' src='http://127.0.0.1/divisatrading/assets/images/estrella.png'>";
+                                    echo "<img class='estrellac1' src='http://divisatrading.com/assets/images/estrella.png'>";
                                     $number++;
                                 }
                                 echo"
@@ -259,7 +259,7 @@
                         <div class="col-md-3 footerr">
                             <div class="footer-about">
                                 <h3 class="font-600 color-white">Somos</h3>
-                                <img src="http://127.0.0.1/divisatrading/assets/images/logo.svg" class="img-responsive" alt="Image" style="width: 200px;    margin-top: -20px;margin-left: -5px;"><br>
+                                <img src="http://divisatrading.com/assets/images/logo.svg" class="img-responsive" alt="Image" style="width: 200px;    margin-top: -20px;margin-left: -5px;"><br>
                                 <p>Una gestora de fondos conformada<br>
 por profesionales apasionados por<br>
 el trading de divisas y dedicados al<br>
@@ -361,7 +361,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
+        <br><br><img src="http://divisatrading.com/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">TÉRMINOS Y CONDICIONES</h1>
       <p class="text-justify">ESTOS TÉRMINOS Y CONDICIONES RIGEN LA RELACIÓN COMERCIAL ENTRE “EL PAMM MANAGER” GROUP, EN ADELANTE DENOMINADO COMO “EL PAMM MANAGER”, Y EL USUARIO DE ESTA PÁGINA WEB, EN ADELANTE LLAMADO “EL CLIENTE”, RESPECTO AL SERVICIO DE MANEJO DE INVERSIONES EN EL MERCADO DE DIVISAS OFRECIDO POR “EL PAMM MANAGER”. CUANDO “EL CLIENTE” COMPLETA EL FORMULARIO EN LÍNEA PROVISTO POR EL BRÓKER “KEY TO MARKETS”, AUTORIZANDO A “EL PAMM MANAGER” EL MANEJO DE SUS FONDOS EN EL MERCADO DE DIVISAS, QUEDA ENTENDIDO QUE “EL CLIENTE” HA LEÍDO, COMPRENDIDO Y ACEPTADO ÍNTEGRAMENTE ESTOS TÉRMINOS Y CONDICIONES.</p>
       <p class="text-justify">“EL CLIENTE” declara tener 18 años de edad o más, que actúa en su propio nombre y derechos, que es capaz de suscribir un contrato legalmente vinculante y que se compromete a asumir total responsabilidad por las ganancias o pérdidas que realice en su cuenta de inversión PAMM Investor, como resultado de autorizar a “EL PAMM MANAGER” a realizar en su nombre y representación, las inversiones que considere pertinentes en el mercado de divisas.</p>
@@ -398,7 +398,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
+        <br><br><img src="http://divisatrading.com/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">ADVERTENCIA DE RIESGOS</h1>
       <p>POR FAVOR, LEA CON ATENCIÓN LA PRESENTE ADVERTENCIA DE RIESGOS, YA QUE ES NECESARIO QUE USTED COMPRENDA LOS RIESGOS POTENCIALES QUE EXISTEN EN EL MERCADO DE DIVISAS. EL DOCUMENTO LEERÁ A CONTINUACIÓN HA SIDO REDACTADO SOBRE UNA BASE JUSTA Y NO ENGAÑOSA.</p>
       <p class="text-justify">La negociación en el mercado de divisas es una actividad especulativa que utiliza un apalancamiento que conlleva un alto nivel de riesgo y puede no ser adecuada para todos los inversionistas. El uso de apalancamiento puede trabajar a su favor o en contra, brindándole la oportunidad de obtener grandes beneficios o pérdidas. Por lo tanto, existe la posibilidad de que usted pueda realizar la pérdida parcial o total de su inversión. Antes de decidir participar en el mercado de divisas, usted debería considerar cuidadosamente sus objetivos de inversión, nivel de experiencia y su tolerancia al riesgo. Las operaciones en el mercado de divisas deberían realizarse solo con capitales de riesgo, es decir, con fondos que no estén destinados a cubrir sus necesidades prioritarias, tales como: pago de alquiler de vivienda, hipotecas, medicinas, alimentación, educación o cualquier otro gasto básico recurrente. Al aceptar realizar inversiones en el mercado de divisas, usted está reconociendo que opera con su capital de riesgo disponible y que cualquier pérdida que sufra no perjudicará su estilo de vida. Además, usted está consciente de los riesgos asociados con las operaciones en el mercado de divisas. Usted es responsable de las pérdidas o daños que pueda experimentar al invertir en el mercado de divisas, inclusive, en caso de eventos de fuerza mayor o hecho fortuito. El éxito de este tipo de inversiones depende de la habilidad del trader para identificar oportunidades de inversión rentables y gestionar apropiadamente el riesgo. Identificar oportunidades de inversión rentables implica un alto nivel de conocimientos y habilidades del trader. Sus inversiones en el mercado de divisas deberían complacerle y ser adecuadas para sus circunstancias personales y posición financiera. Si no comprende los riesgos de invertir en el mercado de divisas, le sugerimos consultar a un asesor financiero independiente especializado en divisas y debidamente regulado, a fin de aclarar sus dudas. En caso de que usted continúe sin comprender los riesgos tras consultar a un asesor financiero, le sugerimos abstenerse de realizar cualquier tipo de operación en el mercado de divisas.</p>
@@ -411,7 +411,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
+        <br><br><img src="http://divisatrading.com/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">POLÍTICA DE PRIVACIDAD</h1>
       <p>LA PRIVACIDAD Y SEGURIDAD DE NUESTROS CLIENTES (ACTIVOS O NO) ES MUY IMPORTANTE PARA NOSOTROS. <br> POR ESO, A CONTINUACIÓN LE EXPLICAMOS EL TRATAMIENTO QUE DAMOS A SUS DATOS PERSONALES <br>E INFORMACIONES FINANCIERAS.</p>
       <p class="text-justify">En Divisa Trading estamos comprometidos a proteger de manera eficaz la información personal y financiera de nuestros Clientes, y a revisar continuamente nuestra Política de Privacidad, a fin de garantizar el cumplimiento de los más altos estándares de seguridad de datos. Al hacer uso de nuestro sitio web, usted nos otorga su consentimiento para la recolección, mantenimiento y uso de sus datos personales e informaciones financieras, de acuerdo a nuestra Política de Privacidad. Divisa Trading no vende, arrienda ni comparte en modo alguno los datos personales o informaciones financieras de sus clientes, usuarios o entidades asociadas, a menos que haya sido expresamente requerido por una autoridad administrativa, financiera o judicial que cumpla con las leyes y regulaciones a las cuales Divisa Trading está sujeta. Divisa Trading recolectará sus datos personales e informaciones financieras solo cuando usted las proporcione al momento de completar el formulario de contacto, nos otorgue un poder especial limitado para autorizarnos al manejo de sus inversiones en el mercado de divisas, se registre en nuestra página web para ofrecer sus comentarios o cuando se comunique con nosotros por vía e-mail. Los datos personales e informaciones financieras aportadas por el cliente al bróker al momento de abrir una cuenta de inversión, serán protegidos por las políticas de privacidad que a tal efecto tenga previsto el bróker. Divisa Trading no es responsable por las políticas de privacidad de los sitios web de los brókeres, ni tiene el control sobre el uso o seguridad de la información suministrada por los clientes a tales sitios webs. Los datos personales e informaciones financieras que nos comprometemos a mantener bajo estricta confidencialidad incluyen, pero no se limitan a los siguientes: Nombres y apellidos, correos electrónicos, teléfonos, brókeres, balance en cuentas de inversión, ganancias o pérdidas realizadas, etc. Usted tiene derecho a modificar sus datos personales cuando lo desee mediante el envío de una notificación vía e-mail a Divisa Trading, e inclusive puede solicitar su exclusión anticipada de nuestra base de datos, prevenir su procesamiento o rechazar la recepción de nuestras eventuales ofertas o promociones. Nuestra política de privacidad es aplicada para el manejo de datos de clientes activos y no activos. Divisa Trading solo permite el acceso “limitado” a los datos de nuestros Clientes, a empleados que en virtud de sus atribuciones requieran dichas Informaciones para prestar el debido servicio. Para la protección de los referidos datos e informaciones, Divisa Trading utiliza mecanismos de seguridad físicos y electrónicos, además de procedimientos administrativos, a fin de evitar su extravío, robo, hurto, copia, difusión, uso o modificación desautorizada. Usted será responsable por la protección de sus números de cuentas de inversión, credenciales de acceso a su Back Office y cualquier otra información sensible sobre sus finanzas o inversiones. Eventualmente, utilizaremos su información de contacto para informarle sobre nuevos productos o servicios, promociones y descuentos. También, utilizaremos su información de contacto para cumplir nuestras obligaciones en virtud de acuerdos o contratos existentes entre usted y nosotros, como por ejemplo: notificarle Inicio eventuales cambios en nuestras políticas o servicios, modificación de precios, comisiones u honorarios, y cualquier otro tema que consideremos de interés para usted. Así mismo, sus datos podrán ser utilizados en caso de ser necesaria la salvaguarda de nuestros intereses, derechos o propiedad. Al término de 3 años, sin que usted mantenga una relación comercial activa con Divisa Trading o sus empresas filiales, sus datos personales e informaciones financieras serán destruidos y/o borrados de nuestras bases de datos, para prevenir cualquier uso no autorizado. Nuestros productos y servicios están dirigidos a personas mayores de 18 años, residentes fuera de los Estados Unidos de América.</p>
@@ -424,7 +424,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal4" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
+        <br><br><img src="http://divisatrading.com/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">PREGUNTAS FRECUENTES</h1>
       <p>SI USTED NO ENCUENTRA LA RESPUESTA A SU PREGUNTA ESPECÍFICA, POR FAVOR,<br> COMUNÍQUESE CON NOSOTROS A TRAVÉS DEL EMAIL: 
         <a href="mailto:INFO@DIVISATRADING.COM" class="color-base">INFO@DIVISATRADING.COM</a>.</p>
@@ -573,7 +573,7 @@ sus asociados e inversionistas.</p>
 <div class="modal fade modal5" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
+        <br><br><img src="http://divisatrading.com/assets/images/logo2.svg" class="logo" alt=""><br><br>
         <h1 class="font-30">PROGRAMA DE ASOCIADOS</h1>
       <p>SOMOS LA PRIMERA FRANQUICIA DE GESTIÓN DE FONDOS DE LA INDUSTRIA FOREX.<br>
 NUESTROS ASOCIADOS OBTIENEN ATRACTIVAS COMISIONES MENSUALES CON <br>
@@ -647,7 +647,7 @@ El Programa Especial de Inversión, contribuye a un mejor balance del flujo de g
 <div class="modal fade modal6" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
+        <br><br><img src="http://divisatrading.com/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">A NUESTROS INVERSIONISTAS</h1>
       <p>“UN GRAMO DE PRUEBA PESA MAS QUE UN KILO DE TEORÍA”</p><br><br>
       <iframe src="//www.fxblue.com/fxbluechart.aspx?c=ch_cumulativereturn&id=javierurbina" frameborder="0" width="520" height="340"><a href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a></iframe>  
@@ -698,14 +698,14 @@ garantizar la continuidad y éxito de este programa de inversión.</p>
 <div class="modal fade modal7" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-        <br><br><img src="http://127.0.0.1/divisatrading/assets/images/logo2.svg" class="logo" alt=""><br><br>
+        <br><br><img src="http://divisatrading.com/assets/images/logo2.svg" class="logo" alt=""><br><br>
       <h1 class="font-30">RESULTADOS AUDITADOS POR MYFXBOOK</h1>
       <p>OFRECEMOS MÁXIMA TRANSPARENCIA A NUESTROS INVERSIONISTAS</p><br><br>
       <div class="col-md-6 text-center">
-          <img src="http://127.0.0.1/divisatrading/assets/images/2.png" style="width: 45%;margin-left: 12%;">
+          <img src="http://divisatrading.com/assets/images/2.png" style="width: 45%;margin-left: 12%;">
       </div>
       <div class="col-md-5 text-center">
-          <img src="http://127.0.0.1/divisatrading/assets/images/1.png" style="width: 50%;">
+          <img src="http://divisatrading.com/assets/images/1.png" style="width: 50%;">
       </div>
       <br><br><br><br>
       <a target="_blank" href="https://www.myfxbook.com/members/urbinatrader/2100210272/2745263"><img style="width: 60%;height: 270px;"  border="0" src="https://widgets.myfxbook.com/widgets/2745263/large.jpg"/></a>  
@@ -715,33 +715,33 @@ garantizar la continuidad y éxito de este programa de inversión.</p>
     </div>
   </div>
 </div>   
-    <script src="http://127.0.0.1/divisatrading/assets/js/jquery.min.js"></script>
+    <script src="http://divisatrading.com/assets/js/jquery.min.js"></script>
     <!--Google Map API Key-->
     <!--Counter JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/waypoints.js"></script>
-    <script src="http://127.0.0.1/divisatrading/assets/js/counterup.min.js"></script>
+    <script src="http://divisatrading.com/assets/js/waypoints.js"></script>
+    <script src="http://divisatrading.com/assets/js/counterup.min.js"></script>
     <!--Bootstrap JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/bootstrap.min.js"></script>
+    <script src="http://divisatrading.com/assets/js/bootstrap.min.js"></script>
     <!--Magnic PopUp JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/magnific-popup.min.js"></script>
+    <script src="http://divisatrading.com/assets/js/magnific-popup.min.js"></script>
     <!--Isotope JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/isotope.min.js"></script>
+    <script src="http://divisatrading.com/assets/js/isotope.min.js"></script>
     <!--Image Loded JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/images-loded.min.js"></script>
+    <script src="http://divisatrading.com/assets/js/images-loded.min.js"></script>
     <!--Animate Headline JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/animated-headline.js"></script>
+    <script src="http://divisatrading.com/assets/js/animated-headline.js"></script>
     <!--Owl Carousel JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/owl.carousel.min.js"></script>
+    <script src="http://divisatrading.com/assets/js/owl.carousel.min.js"></script>
     <!--Bootsnav JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/bootsnav.js"></script>
+    <script src="http://divisatrading.com/assets/js/bootsnav.js"></script>
     <!--Ripple JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/ripples-min.js"></script>
+    <script src="http://divisatrading.com/assets/js/ripples-min.js"></script>
     <!--Scrolly JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/scrolly.js"></script>
+    <script src="http://divisatrading.com/assets/js/scrolly.js"></script>
     <!--Ajax Contact JS-->
-    <script src="http://127.0.0.1/divisatrading/mailer/ajax-contact-form.js"></script>
+    <script src="http://divisatrading.com/mailer/ajax-contact-form.js"></script>
     <!--Main JS-->
-    <script src="http://127.0.0.1/divisatrading/assets/js/custom.js"></script>
+    <script src="http://divisatrading.com/assets/js/custom.js"></script>
     <script type="text/javascript">
         function boton1() {
         document.getElementById("cat1").style.display = "inherit";
