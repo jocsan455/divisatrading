@@ -1688,3 +1688,21 @@ nav.navbar.bootsnav ul.nav > li > a {
     margin-right: -10px;
     padding-top: 20px;
 }
+@media only screen and (max-width: 580px) {
+  .botonresponsive{
+    width: 100%;
+    padding: 12px 50px !important;
+    display: block;
+    text-align: center;
+    margin: 0 10px;
+  }
+}
+@media only screen and (min-width: 581px) {
+  .botonresponsive{
+    width: 100%;
+    padding: 12px 50px !important;
+    display: block;
+    text-align: center;
+    margin: 0 10px;
+  }
+}
