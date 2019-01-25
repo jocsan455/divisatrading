@@ -1595,7 +1595,7 @@ pre code {
 @media (min-width: 992px) {
   .botonresponsive{
     width: 75%;
-    padding: 12px;
+    padding: 12px !important;
     display: block;
     text-align: center;
     margin-left: 12.5%;
@@ -1610,7 +1610,7 @@ pre code {
   }
   .botonresponsive{
     width: 75%;
-    padding: 12px;
+    padding: 12px !important;
     display: block;
     text-align: center;
     margin-left: 12.5%;
@@ -1790,11 +1790,11 @@ pre code {
 }
 @media (min-width: 768px) {
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
     float: left;
@@ -1958,11 +1958,11 @@ pre code {
     float: left;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
   .col-md-12 {
     width: 100%;
@@ -2480,11 +2480,11 @@ table th[class*="col-"] {
     border: 1px solid #ddd;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
   .table-responsive > .table {
     margin-bottom: 0;
@@ -2954,11 +2954,11 @@ select[multiple].input-lg {
     vertical-align: middle;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
   .form-inline .form-control {
     display: inline-block;
@@ -3027,11 +3027,11 @@ select[multiple].input-lg {
     text-align: right;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
 }
 .form-horizontal .has-feedback .form-control-feedback {
@@ -3043,11 +3043,11 @@ select[multiple].input-lg {
     font-size: 18px;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
 }
 @media (min-width: 768px) {
@@ -3056,11 +3056,11 @@ select[multiple].input-lg {
     font-size: 12px;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
 }
 .btn {
@@ -3701,11 +3701,11 @@ tbody.collapse.in {
     left: auto;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
   .navbar-right .dropdown-menu-left {
     right: auto;
@@ -4131,11 +4131,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     width: 1%;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
   .nav-tabs.nav-justified > li > a {
     margin-bottom: 0;
@@ -4156,11 +4156,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     border-radius: 4px 4px 0 0;
   }
   .botonresponsive{
-    width: 100%;
-    padding: 12px 50px;
+    width: 75%;
+    padding: 12px !important;
     display: block;
     text-align: center;
-    margin: 0 10px;
+    margin-left: 12.5%;
   }
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
